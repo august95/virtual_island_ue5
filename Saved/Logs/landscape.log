@@ -4223,3 +4223,846 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.01.04-18.51.29:013][294]AssetCheck: New page: Asset Save: island_2
 [2022.01.04-18.51.29:013][294]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/island_2.island_2
 [2022.01.04-18.51.31:425][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.01.04-19.16.39:735][550]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.01.04-19.16.39:740][550]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.04-19.16.39:740][550]PIE: New page: PIE session: island_2 (4. jan. 2022, 21:16:39)
+[2022.01.04-19.16.39:740][550]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_island_2
+[2022.01.04-19.16.39:761][550]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020293s)
+[2022.01.04-19.16.39:761][550]LogAIModule: Creating AISystem for world island_2
+[2022.01.04-19.16.39:762][550]LogPlayLevel: PIE: World Init took: (0.001134s)
+[2022.01.04-19.16.39:762][550]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/island_2.island_2 to /Game/ThirdPersonBP/Maps/UEDPIE_0_island_2.island_2 (0.021540s)
+[2022.01.04-19.16.39:767][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.01.04-19.16.39:768][550]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.01.04-19.16.39:768][550]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.04-19.16.39:768][550]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.04-19.16.39:768][550]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.04-19.16.39:768][550]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.04-19.16.39:768][550]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.04-19.16.39:768][550]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.04-19.16.39:768][550]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.04-19.16.39:768][550]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.04-19.16.39:768][550]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.04-19.16.39:768][550]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.04-19.16.39:772][550]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.04-19.16.39:772][550]LogAudioMixer: Display: 1: FrontRight
+[2022.01.04-19.16.39:784][550]LogAudioMixer: Display: Using Audio Device Høyttalere (Realtek(R) Audio)
+[2022.01.04-19.16.39:785][550]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.04-19.16.39:785][550]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.04-19.16.39:785][550]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.04-19.16.39:786][550]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.04-19.16.39:786][550]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.04-19.16.39:787][550]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.04-19.16.39:787][550]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.04-19.16.39:787][550]LogInit: FAudioDevice initialized.
+[2022.01.04-19.16.39:787][550]LogAudio: Display: Audio Device (ID: 5) registered with world 'island_2'.
+[2022.01.04-19.16.39:805][550]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.01.04-19.16.39:807][550]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_island_2.island_2 up for play (max tick rate 0) at 2022.01.04-20.16.39
+[2022.01.04-19.16.39:808][550]LogWorld: Bringing up level for play took: 0.002730
+[2022.01.04-19.16.39:808][550]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2022.01.04-19.16.39:809][550]PIE: Server logged in
+[2022.01.04-19.16.39:809][550]PIE: Play in editor total start time 0,07 seconds.
+[2022.01.04-19.17.47:674][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.04-19.17.47:674][998]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_island_2
+[2022.01.04-19.17.47:674][998]LogWorld: UWorld::CleanupWorld for island_2, bSessionEnded=true, bCleanupResources=true
+[2022.01.04-19.17.47:675][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.04-19.17.47:681][998]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.04-19.17.47:708][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.04-19.17.47:712][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.04-19.17.47:713][998]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.04-19.17.47:714][998]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.04-19.17.47:719][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.01.04-19.17.47:724][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.01.04-19.17.47:767][999]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.01.04-19.19.14:409][240]LogStaticMesh: StaticMesh /Engine/EditorLandscapeResources/FlattenPlaneMesh.FlattenPlaneMesh should be resaved to improve async compilation performance.
+[2022.01.04-19.19.14:562][240]LogTexture: Display: Building textures: Texture2D_11 (G8, 128X128)
+[2022.01.04-19.21.06:436][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.01.04-19.21.06:511][872]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2022.01.04-19.21.06:512][872]LogSavePackage: Moving '../../../../../../Github/landscape/Saved/island_2_Auto1A1760F6A4DD165F5AABBAA9DB8D153A6.tmp' to '../../../../../../Github/landscape/Saved/Autosaves/Game/ThirdPersonBP/Maps/island_2_Auto1.umap'
+[2022.01.04-19.21.06:513][872]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/island_2' took 0.083
+[2022.01.04-19.21.06:513][872]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.083
+[2022.01.04-19.21.21:453][921]Cmd: TRANSACTION UNDO
+[2022.01.04-19.21.21:453][921]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.01.04-19.21.21:505][921]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: C107E88760F018177265F1613D69CDF937F9833B), compiling. 
+[2022.01.04-19.21.21:537][921]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.04-19.21.21:537][921]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.04-19.21.21:537][921]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.04-19.21.21:537][921]MaterialEditorStats: 
+[2022.01.04-19.21.21:537][921]MaterialEditorStats: Shader Count: 0
+[2022.01.04-19.21.21:652][923]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.01.04-19.21.21:652][923]LogShaderCompilers: Display: Total job queries 3917, among them cache hits 3161 (80.70%)
+[2022.01.04-19.21.21:652][923]LogShaderCompilers: Display: Tracking 709 distinct input hashes that result in 290 distinct outputs (40.90%)
+[2022.01.04-19.21.21:652][923]LogShaderCompilers: Display: RAM used: 2.49 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.30%
+[2022.01.04-19.21.21:652][923]LogShaderCompilers: Display: ================================================
+[2022.01.04-19.21.21:706][924]MaterialEditorStats: Base pass shader: 156 instructions
+[2022.01.04-19.21.21:706][924]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 234 instructions
+[2022.01.04-19.21.21:706][924]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.01.04-19.21.21:706][924]MaterialEditorStats: Texture samplers: 3/16
+[2022.01.04-19.21.21:706][924]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.04-19.21.21:706][924]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.04-19.21.21:706][924]MaterialEditorStats: 
+[2022.01.04-19.21.21:706][924]MaterialEditorStats: Shader Count: 17
+[2022.01.04-19.21.57:573][595]LogEditorViewport: Clicking Background
+[2022.01.04-19.22.00:566][840]LogEditorViewport: Clicking Background
+[2022.01.04-19.22.00:982][872]LogEditorViewport: Clicking Background
+[2022.01.04-19.22.01:396][904]LogEditorViewport: Clicking Background
+[2022.01.04-19.22.01:908][944]LogEditorViewport: Clicking Background
+[2022.01.04-19.22.02:289][973]LogEditorViewport: Clicking Background
+[2022.01.04-19.23.22:009][282]Cmd: TRANSACTION UNDO
+[2022.01.04-19.23.22:009][282]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2022.01.04-19.23.22:038][282]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2022.01.04-19.23.22:039][282]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: 33057240D9C07807D78E70ED2DA3077E24698BDC), compiling. 
+[2022.01.04-19.23.22:053][282]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.04-19.23.22:053][282]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.04-19.23.22:053][282]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.04-19.23.22:053][282]MaterialEditorStats: 
+[2022.01.04-19.23.22:053][282]MaterialEditorStats: Shader Count: 0
+[2022.01.04-19.23.22:273][286]MaterialEditorStats: Base pass shader: 156 instructions
+[2022.01.04-19.23.22:273][286]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 234 instructions
+[2022.01.04-19.23.22:273][286]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.01.04-19.23.22:273][286]MaterialEditorStats: Texture samplers: 3/16
+[2022.01.04-19.23.22:273][286]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.04-19.23.22:273][286]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.04-19.23.22:273][286]MaterialEditorStats: 
+[2022.01.04-19.23.22:273][286]MaterialEditorStats: Shader Count: 17
+[2022.01.04-19.23.34:850][240]Cmd: TRANSACTION UNDO
+[2022.01.04-19.23.34:850][240]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2022.01.04-19.23.34:881][240]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2022.01.04-19.23.34:882][240]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: BCEC8B2AE3100E9413847E21590639128082DB3F), compiling. 
+[2022.01.04-19.23.34:905][240]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.04-19.23.34:905][240]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.04-19.23.34:905][240]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.04-19.23.34:905][240]MaterialEditorStats: 
+[2022.01.04-19.23.34:905][240]MaterialEditorStats: Shader Count: 0
+[2022.01.04-19.23.35:124][244]MaterialEditorStats: Base pass shader: 156 instructions
+[2022.01.04-19.23.35:124][244]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 234 instructions
+[2022.01.04-19.23.35:124][244]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.01.04-19.23.35:124][244]MaterialEditorStats: Texture samplers: 3/16
+[2022.01.04-19.23.35:124][244]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.04-19.23.35:124][244]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.04-19.23.35:124][244]MaterialEditorStats: 
+[2022.01.04-19.23.35:124][244]MaterialEditorStats: Shader Count: 17
+[2022.01.04-19.23.59:492][ 18]LogEditorViewport: Clicking Background
+[2022.01.04-19.24.03:216][317]Cmd: TRANSACTION UNDO
+[2022.01.04-19.24.03:217][317]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2022.01.04-19.24.03:247][317]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2022.01.04-19.24.03:249][317]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: B5A585EE48E8E034B2DA9A5AD0A9A21E8789FF5D), compiling. 
+[2022.01.04-19.24.03:270][317]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.04-19.24.03:270][317]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.04-19.24.03:270][317]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.04-19.24.03:270][317]MaterialEditorStats: 
+[2022.01.04-19.24.03:270][317]MaterialEditorStats: Shader Count: 0
+[2022.01.04-19.24.03:434][320]Cmd: TRANSACTION UNDO
+[2022.01.04-19.24.03:434][320]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2022.01.04-19.24.03:446][320]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2022.01.04-19.24.03:448][320]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: 94352BF19DF478FF08C70DA71B6C9D1EC5AF5699), compiling. 
+[2022.01.04-19.24.03:597][322]Cmd: TRANSACTION UNDO
+[2022.01.04-19.24.03:597][322]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2022.01.04-19.24.03:618][322]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2022.01.04-19.24.03:619][322]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: EEE9E4C1FE1B7C2517909EBD58882A3E33D7AE89), compiling. 
+[2022.01.04-19.24.03:773][324]Cmd: TRANSACTION UNDO
+[2022.01.04-19.24.03:773][324]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2022.01.04-19.24.03:793][324]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2022.01.04-19.24.03:795][324]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: 5C4A6992CCBF2BD520AA163827B934C6E1F597C5), compiling. 
+[2022.01.04-19.24.03:904][329]MaterialEditorStats: Base pass shader: 156 instructions
+[2022.01.04-19.24.03:904][329]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 234 instructions
+[2022.01.04-19.24.03:904][329]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.01.04-19.24.03:904][329]MaterialEditorStats: Texture samplers: 3/16
+[2022.01.04-19.24.03:904][329]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.04-19.24.03:904][329]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.04-19.24.03:904][329]MaterialEditorStats: 
+[2022.01.04-19.24.03:904][329]MaterialEditorStats: Shader Count: 17
+[2022.01.04-19.24.03:961][330]Cmd: TRANSACTION UNDO
+[2022.01.04-19.24.03:961][330]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2022.01.04-19.24.03:976][330]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2022.01.04-19.24.03:977][330]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: A8869823466B6E6DEC8766993AFB5ECBB6A227D9), compiling. 
+[2022.01.04-19.24.03:981][330]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.04-19.24.03:981][330]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.04-19.24.03:981][330]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.04-19.24.03:981][330]MaterialEditorStats: 
+[2022.01.04-19.24.03:981][330]MaterialEditorStats: Shader Count: 0
+[2022.01.04-19.24.04:070][334]MaterialEditorStats: Texture samplers: 3/16
+[2022.01.04-19.24.04:070][334]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.04-19.24.04:070][334]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.04-19.24.04:070][334]MaterialEditorStats: 
+[2022.01.04-19.24.04:070][334]MaterialEditorStats: Shader Count: 2
+[2022.01.04-19.24.04:118][335]MaterialEditorStats: Base pass shader: 156 instructions
+[2022.01.04-19.24.04:118][335]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 234 instructions
+[2022.01.04-19.24.04:118][335]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.01.04-19.24.04:118][335]MaterialEditorStats: Texture samplers: 3/16
+[2022.01.04-19.24.04:118][335]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.04-19.24.04:118][335]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.04-19.24.04:118][335]MaterialEditorStats: 
+[2022.01.04-19.24.04:118][335]MaterialEditorStats: Shader Count: 17
+[2022.01.04-19.24.04:162][336]Cmd: TRANSACTION UNDO
+[2022.01.04-19.24.04:162][336]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2022.01.04-19.24.04:175][336]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2022.01.04-19.24.04:176][336]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: 5B909BABB3E3D1630DB51C5CBB4C2B6B00C4DCAC), compiling. 
+[2022.01.04-19.24.04:180][336]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.04-19.24.04:180][336]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.04-19.24.04:180][336]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.04-19.24.04:180][336]MaterialEditorStats: 
+[2022.01.04-19.24.04:180][336]MaterialEditorStats: Shader Count: 0
+[2022.01.04-19.24.04:266][340]MaterialEditorStats: Texture samplers: 3/16
+[2022.01.04-19.24.04:266][340]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.04-19.24.04:266][340]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.04-19.24.04:266][340]MaterialEditorStats: 
+[2022.01.04-19.24.04:266][340]MaterialEditorStats: Shader Count: 2
+[2022.01.04-19.24.04:276][341]Cmd: TRANSACTION UNDO
+[2022.01.04-19.24.04:276][341]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2022.01.04-19.24.04:300][341]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2022.01.04-19.24.04:302][341]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: 7CBEFDE7A809E635D81739B17E438558C1600D14), compiling. 
+[2022.01.04-19.24.04:305][341]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.04-19.24.04:305][341]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.04-19.24.04:305][341]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.04-19.24.04:306][341]MaterialEditorStats: 
+[2022.01.04-19.24.04:306][341]MaterialEditorStats: Shader Count: 0
+[2022.01.04-19.24.04:376][346]MaterialEditorStats: Base pass shader: 156 instructions
+[2022.01.04-19.24.04:376][346]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 234 instructions
+[2022.01.04-19.24.04:376][346]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.01.04-19.24.04:376][346]MaterialEditorStats: Texture samplers: 3/16
+[2022.01.04-19.24.04:376][346]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.04-19.24.04:376][346]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.04-19.24.04:376][346]MaterialEditorStats: 
+[2022.01.04-19.24.04:376][346]MaterialEditorStats: Shader Count: 17
+[2022.01.04-19.24.04:460][349]Cmd: TRANSACTION UNDO
+[2022.01.04-19.24.04:460][349]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2022.01.04-19.24.04:474][349]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2022.01.04-19.24.04:476][349]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: F6377427581BD46E0EF893DA27755689DDEEA72C), compiling. 
+[2022.01.04-19.24.04:479][349]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.04-19.24.04:479][349]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.04-19.24.04:480][349]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.04-19.24.04:480][349]MaterialEditorStats: 
+[2022.01.04-19.24.04:480][349]MaterialEditorStats: Shader Count: 0
+[2022.01.04-19.24.04:567][353]MaterialEditorStats: Texture samplers: 3/16
+[2022.01.04-19.24.04:567][353]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.04-19.24.04:567][353]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.04-19.24.04:567][353]MaterialEditorStats: 
+[2022.01.04-19.24.04:567][353]MaterialEditorStats: Shader Count: 2
+[2022.01.04-19.24.04:615][354]MaterialEditorStats: Base pass shader: 156 instructions
+[2022.01.04-19.24.04:615][354]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 234 instructions
+[2022.01.04-19.24.04:615][354]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.01.04-19.24.04:615][354]MaterialEditorStats: Texture samplers: 3/16
+[2022.01.04-19.24.04:615][354]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.04-19.24.04:615][354]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.04-19.24.04:615][354]MaterialEditorStats: 
+[2022.01.04-19.24.04:615][354]MaterialEditorStats: Shader Count: 17
+[2022.01.04-19.24.13:312][ 28]LogEditorViewport: Clicking Background
+[2022.01.04-19.24.26:558][ 51]LogEditorViewport: Clicking Background
+[2022.01.04-19.24.28:704][224]LogEditorViewport: Clicking Background
+[2022.01.04-19.24.29:098][254]LogEditorViewport: Clicking Background
+[2022.01.04-19.24.43:832][408]LogEditorViewport: Clicking Background
+[2022.01.04-19.24.44:414][452]LogEditorViewport: Clicking Background
+[2022.01.04-19.24.55:382][216]Cmd: TRANSACTION UNDO
+[2022.01.04-19.24.55:382][216]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2022.01.04-19.24.55:409][216]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2022.01.04-19.24.55:411][216]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: EF4F26B8D376C44185DDAFD0DD8B6804312FA01E), compiling. 
+[2022.01.04-19.24.55:420][216]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.04-19.24.55:420][216]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.04-19.24.55:420][216]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.04-19.24.55:420][216]MaterialEditorStats: 
+[2022.01.04-19.24.55:421][216]MaterialEditorStats: Shader Count: 0
+[2022.01.04-19.24.55:585][219]Cmd: TRANSACTION UNDO
+[2022.01.04-19.24.55:585][219]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2022.01.04-19.24.55:597][219]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2022.01.04-19.24.55:599][219]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: F0B91541463AED16E02421671CE98947391EEE52), compiling. 
+[2022.01.04-19.24.55:617][219]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.01.04-19.24.55:617][219]LogShaderCompilers: Display: Total job queries 4107, among them cache hits 3351 (81.59%)
+[2022.01.04-19.24.55:617][219]LogShaderCompilers: Display: Tracking 709 distinct input hashes that result in 290 distinct outputs (40.90%)
+[2022.01.04-19.24.55:617][219]LogShaderCompilers: Display: RAM used: 2.49 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.30%
+[2022.01.04-19.24.55:617][219]LogShaderCompilers: Display: ================================================
+[2022.01.04-19.24.55:747][221]Cmd: TRANSACTION UNDO
+[2022.01.04-19.24.55:747][221]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2022.01.04-19.24.55:768][221]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2022.01.04-19.24.55:769][221]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: 91A95ECB53A55128836A5591D0F94E054557C7A9), compiling. 
+[2022.01.04-19.24.55:944][225]MaterialEditorStats: Base pass shader: 156 instructions
+[2022.01.04-19.24.55:944][225]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 234 instructions
+[2022.01.04-19.24.55:944][225]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.01.04-19.24.55:944][225]MaterialEditorStats: Texture samplers: 3/16
+[2022.01.04-19.24.55:944][225]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.04-19.24.55:944][225]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.04-19.24.55:944][225]MaterialEditorStats: 
+[2022.01.04-19.24.55:944][225]MaterialEditorStats: Shader Count: 17
+[2022.01.04-19.24.56:102][236]Cmd: TRANSACTION UNDO
+[2022.01.04-19.24.56:102][236]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2022.01.04-19.24.56:126][236]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2022.01.04-19.24.56:127][236]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: C4E0707A4B772F0D3380D2A9A17EBA62B0782996), compiling. 
+[2022.01.04-19.24.56:131][236]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.04-19.24.56:131][236]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.04-19.24.56:131][236]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.04-19.24.56:131][236]MaterialEditorStats: 
+[2022.01.04-19.24.56:131][236]MaterialEditorStats: Shader Count: 0
+[2022.01.04-19.24.56:206][240]MaterialEditorStats: Texture samplers: 3/16
+[2022.01.04-19.24.56:206][240]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.04-19.24.56:206][240]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.04-19.24.56:206][240]MaterialEditorStats: 
+[2022.01.04-19.24.56:206][240]MaterialEditorStats: Shader Count: 2
+[2022.01.04-19.24.56:253][241]MaterialEditorStats: Base pass shader: 156 instructions
+[2022.01.04-19.24.56:253][241]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 234 instructions
+[2022.01.04-19.24.56:253][241]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.01.04-19.24.56:253][241]MaterialEditorStats: Texture samplers: 3/16
+[2022.01.04-19.24.56:253][241]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.04-19.24.56:253][241]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.04-19.24.56:253][241]MaterialEditorStats: 
+[2022.01.04-19.24.56:253][241]MaterialEditorStats: Shader Count: 17
+[2022.01.04-19.25.45:324][865]Cmd: TRANSACTION UNDO
+[2022.01.04-19.25.45:324][865]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2022.01.04-19.25.45:368][865]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2022.01.04-19.25.45:369][865]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: 056A1EF94780E4289066C9195A04A6D4F3A8B3FA), compiling. 
+[2022.01.04-19.25.45:387][865]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.04-19.25.45:387][865]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.04-19.25.45:387][865]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.04-19.25.45:387][865]MaterialEditorStats: 
+[2022.01.04-19.25.45:387][865]MaterialEditorStats: Shader Count: 0
+[2022.01.04-19.25.45:690][869]MaterialEditorStats: Base pass shader: 156 instructions
+[2022.01.04-19.25.45:690][869]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 234 instructions
+[2022.01.04-19.25.45:690][869]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.01.04-19.25.45:690][869]MaterialEditorStats: Texture samplers: 3/16
+[2022.01.04-19.25.45:690][869]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.04-19.25.45:690][869]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.04-19.25.45:690][869]MaterialEditorStats: 
+[2022.01.04-19.25.45:690][869]MaterialEditorStats: Shader Count: 17
+[2022.01.04-19.26.17:434][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.17:451][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.17:467][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.17:485][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.17:502][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.17:519][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.17:537][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.17:554][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.17:572][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.17:590][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.17:607][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.17:625][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.17:642][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.17:661][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.17:678][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.17:695][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.17:712][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.17:729][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.17:748][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.17:765][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.17:783][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.17:800][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.17:818][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.17:835][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.17:852][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.17:869][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.17:886][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.17:903][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.17:921][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.17:937][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.17:955][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.17:972][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.17:989][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:006][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:023][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:040][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:058][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:075][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:092][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:109][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:126][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:143][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:160][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:177][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:194][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:211][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:228][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:246][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:264][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:281][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:299][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:316][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:334][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:351][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:369][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:386][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:405][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:423][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:440][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:458][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:475][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:492][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:509][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:527][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:545][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:562][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:579][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:596][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:613][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:632][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:650][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:667][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:685][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:703][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:719][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:737][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:755][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:773][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:791][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:809][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:828][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:846][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:862][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:879][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:897][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:914][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:931][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:949][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:967][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.18:984][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.19:001][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.19:019][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.19:037][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.19:054][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.19:071][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.19:088][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.19:105][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.19:123][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.19:140][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.19:157][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.19:174][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.19:191][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.19:208][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.19:225][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.19:242][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.19:259][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.19:277][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.19:293][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.19:310][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.19:328][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.19:345][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.19:362][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.19:379][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.19:396][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.19:413][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.19:431][161]LogSlate: Window 'Message' being destroyed
+[2022.01.04-19.26.19:437][161]Message dialog closed, result: Cancel, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/LandscapeMat.LandscapeMat
+(Selecting 'No' will cause all changes to be lost!)
+[2022.01.04-19.26.19:582][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.19:600][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.19:618][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.19:635][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.19:653][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.19:670][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.19:687][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.19:704][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.19:721][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.19:739][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.19:758][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.19:775][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.19:792][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.19:809][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.19:827][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.19:845][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.19:862][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.19:879][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.19:897][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.19:915][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.19:933][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.19:950][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.19:968][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.19:986][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:004][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:021][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:038][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:055][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:073][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:089][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:106][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:123][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:140][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:157][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:174][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:192][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:210][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:227][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:245][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:262][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:280][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:297][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:314][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:331][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:349][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:366][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:384][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:402][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:419][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:436][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:453][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:470][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:487][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:504][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:521][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:539][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:557][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:574][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:591][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:608][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:625][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:643][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:659][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:676][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:693][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:710][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:727][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:744][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:761][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:778][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:795][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:813][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:830][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:847][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:864][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:882][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:900][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:917][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:934][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:951][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:968][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.20:985][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.21:003][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.21:020][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.21:037][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.21:054][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.21:071][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.21:089][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.21:106][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.21:123][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.21:140][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.21:157][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.21:174][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.21:191][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.21:209][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.21:226][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.21:243][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.21:260][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.21:277][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.21:293][161]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.21:310][161]LogSlate: Window 'Message' being destroyed
+[2022.01.04-19.26.21:314][161]Message dialog closed, result: Cancel, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/LandscapeMat.LandscapeMat
+(Selecting 'No' will cause all changes to be lost!)
+[2022.01.04-19.26.24:433][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.24:450][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.24:467][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.24:485][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.24:502][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.24:520][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.24:538][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.24:554][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.24:571][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.24:588][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.24:605][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.24:622][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.24:640][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.24:657][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.24:675][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.24:693][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.24:710][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.24:727][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.24:744][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.24:761][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.24:778][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.24:795][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.24:812][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.24:831][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.24:847][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.24:866][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.24:883][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.24:900][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.24:918][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.24:935][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.24:951][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.24:968][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.24:985][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:003][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:020][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:038][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:055][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:072][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:090][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:107][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:124][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:142][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:159][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:177][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:194][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:212][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:229][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:246][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:264][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:281][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:299][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:317][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:334][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:351][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:368][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:386][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:403][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:421][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:438][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:455][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:472][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:489][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:507][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:524][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:541][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:558][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:576][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:594][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:612][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:629][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:647][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:666][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:683][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:700][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:717][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:735][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:752][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:769][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:786][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:803][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:820][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:838][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:855][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:872][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:889][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:907][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:924][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:940][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:957][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:974][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.25:991][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.26:008][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.26:025][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.26:043][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.26:060][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.26:077][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.26:095][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.26:112][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.26:129][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.26:146][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.26:163][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.26:180][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.26:198][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.26:216][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.26:233][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.26:252][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.26:269][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.26:287][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.26:305][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.26:321][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.26:339][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.26:357][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.26:375][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.26:392][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.26:410][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.26:427][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.26:444][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.26:461][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.26:478][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.26:496][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.26:513][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.26:530][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.26:548][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.26:565][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.26:582][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.26:600][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.26:617][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.26:634][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.26:651][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.26:667][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.26:684][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.26:702][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.26:719][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.26:735][384]LogSlate: Window 'Message' being destroyed
+[2022.01.04-19.26.26:739][384]Message dialog closed, result: Cancel, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/LandscapeMat.LandscapeMat
+(Selecting 'No' will cause all changes to be lost!)
+[2022.01.04-19.26.26:881][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.26:900][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.26:917][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.26:935][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.26:953][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.26:970][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.26:988][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:005][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:022][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:039][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:057][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:074][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:091][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:109][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:126][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:143][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:160][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:178][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:195][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:213][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:230][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:249][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:267][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:285][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:303][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:321][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:338][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:356][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:373][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:390][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:408][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:427][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:444][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:461][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:478][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:496][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:514][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:533][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:549][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:567][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:583][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:601][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:618][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:635][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:652][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:669][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:686][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:703][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:721][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:738][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:755][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:772][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:789][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:807][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:825][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:843][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:860][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:878][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:895][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:914][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:931][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:950][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:967][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.27:984][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:001][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:018][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:035][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:054][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:070][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:087][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:104][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:121][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:139][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:156][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:173][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:190][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:207][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:224][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:241][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:258][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:275][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:292][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:309][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:327][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:343][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:361][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:378][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:395][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:412][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:429][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:446][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:463][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:480][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:497][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:514][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:531][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:547][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:564][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:581][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:598][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:615][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:633][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:651][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:668][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:685][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:701][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:718][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:736][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:754][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:770][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:788][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:805][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:822][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:839][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:856][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:874][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:892][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:909][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:926][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:943][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:961][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:978][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.28:995][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.29:011][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.29:029][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.29:046][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.29:064][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.29:082][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.29:099][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.29:116][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.29:133][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.29:151][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.29:168][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.29:185][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.29:203][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.29:220][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.29:238][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.29:256][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.29:273][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.29:291][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.29:308][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.29:325][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.29:343][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.29:361][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.29:378][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.29:396][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.29:413][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.29:430][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.29:447][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.29:465][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.29:482][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.29:499][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.29:517][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.29:534][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.29:551][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.29:568][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.29:585][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.29:602][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.29:619][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.29:636][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.29:654][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.29:671][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.29:688][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.29:705][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.29:722][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.29:739][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.29:756][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.29:774][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.29:791][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.29:808][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.29:825][384]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.04-19.26.29:842][384]LogSlate: Window 'Message' being destroyed
+[2022.01.04-19.26.29:847][384]Message dialog closed, result: Cancel, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/LandscapeMat.LandscapeMat
+(Selecting 'No' will cause all changes to be lost!)
+[2022.01.04-19.26.38:424][ 62]LogToolMenus: Warning: Menu section not found: 'ActorControl' for insert: 'LevelInstance'
+[2022.01.04-19.26.39:758][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/island_2" FILE="../../../../../../Github/landscape/Content/ThirdPersonBP/Maps/island_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.04-19.26.39:764][156]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.01.04-19.26.39:778][156]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.01.04-19.26.39:845][156]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2022.01.04-19.26.39:845][156]LogSavePackage: Moving '../../../../../../Github/landscape/Saved/island_28850FD594E3455FF56A5428EF71847EC.tmp' to '../../../../../../Github/landscape/Content/ThirdPersonBP/Maps/island_2.umap'
+[2022.01.04-19.26.39:850][156]LogFileHelpers: Saving map 'island_2' took 0.093
+[2022.01.04-19.26.39:859][156]AssetCheck: New page: Asset Save: island_2
+[2022.01.04-19.26.39:859][156]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/island_2.island_2
+[2022.01.04-19.26.47:806][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
