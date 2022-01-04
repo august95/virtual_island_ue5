@@ -4049,3 +4049,177 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.01.04-18.44.57:485][304]LogContentValidation: Display: Validating Material /Game/LandscapeMat.LandscapeMat
 [2022.01.04-18.45.00:517][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
 [2022.01.04-18.45.11:159][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.01.04-18.47.27:749][256]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.01.04-18.47.27:756][256]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.04-18.47.27:757][256]PIE: New page: PIE session: island_2 (4. jan. 2022, 20:47:27)
+[2022.01.04-18.47.27:759][256]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.01.04-18.47.27:761][256]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.01.04-18.47.27:763][256]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_island_2
+[2022.01.04-18.47.27:798][256]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034267s)
+[2022.01.04-18.47.27:799][256]LogAIModule: Creating AISystem for world island_2
+[2022.01.04-18.47.27:799][256]LogPlayLevel: PIE: World Init took: (0.001183s)
+[2022.01.04-18.47.27:799][256]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/island_2.island_2 to /Game/ThirdPersonBP/Maps/UEDPIE_0_island_2.island_2 (0.036582s)
+[2022.01.04-18.47.27:804][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.01.04-18.47.27:806][256]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.01.04-18.47.27:806][256]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.04-18.47.27:806][256]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.04-18.47.27:806][256]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.04-18.47.27:806][256]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.04-18.47.27:806][256]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.04-18.47.27:806][256]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.04-18.47.27:806][256]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.04-18.47.27:806][256]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.04-18.47.27:806][256]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.04-18.47.27:806][256]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.04-18.47.27:810][256]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.04-18.47.27:810][256]LogAudioMixer: Display: 1: FrontRight
+[2022.01.04-18.47.27:822][256]LogAudioMixer: Display: Using Audio Device Høyttalere (Realtek(R) Audio)
+[2022.01.04-18.47.27:823][256]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.04-18.47.27:823][256]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.04-18.47.27:823][256]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.04-18.47.27:823][256]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.04-18.47.27:823][256]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.04-18.47.27:824][256]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.04-18.47.27:824][256]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.04-18.47.27:824][256]LogInit: FAudioDevice initialized.
+[2022.01.04-18.47.27:824][256]LogAudio: Display: Audio Device (ID: 2) registered with world 'island_2'.
+[2022.01.04-18.47.27:841][256]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.01.04-18.47.27:845][256]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_island_2.island_2 up for play (max tick rate 0) at 2022.01.04-19.47.27
+[2022.01.04-18.47.27:845][256]LogWorld: Bringing up level for play took: 0.004023
+[2022.01.04-18.47.27:846][256]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2022.01.04-18.47.27:869][256]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.01.04-18.47.27:873][256]PIE: Server logged in
+[2022.01.04-18.47.27:874][256]PIE: Play in editor total start time 0,122 seconds.
+[2022.01.04-18.47.27:993][257]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/GameStateBase_16.svg'. File could not be found
+[2022.01.04-18.47.31:392][489]LogCharacterMovement: ThirdPersonCharacter_167 is stuck and failed to move! Velocity: X=29.79 Y=-0.18 Z=0.00 Location: X=-750.00 Y=390.00 Z=302.02 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:3.980 Actor: Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2022.01.04-18.47.32:395][555]LogCharacterMovement: ThirdPersonCharacter_167 is stuck and failed to move! Velocity: X=574.29 Y=-173.76 Z=0.00 Location: X=-749.80 Y=390.00 Z=302.10 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:3.901 Actor: Component:StaticMeshComponent0 BoneName:None (65 other events since notify)
+[2022.01.04-18.47.33:403][616]LogCharacterMovement: ThirdPersonCharacter_167 is stuck and failed to move! Velocity: X=562.35 Y=-209.20 Z=0.00 Location: X=-749.74 Y=389.97 Z=302.12 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:3.879 Actor: Component:StaticMeshComponent0 BoneName:None (60 other events since notify)
+[2022.01.04-18.47.34:413][678]LogCharacterMovement: ThirdPersonCharacter_167 is stuck and failed to move! Velocity: X=588.20 Y=-118.43 Z=0.00 Location: X=-749.74 Y=389.97 Z=302.12 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:3.879 Actor: Component:StaticMeshComponent0 BoneName:None (61 other events since notify)
+[2022.01.04-18.47.35:420][744]LogCharacterMovement: ThirdPersonCharacter_167 is stuck and failed to move! Velocity: X=590.57 Y=-105.94 Z=0.00 Location: X=-749.74 Y=389.97 Z=302.12 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:3.879 Actor: Component:StaticMeshComponent0 BoneName:None (65 other events since notify)
+[2022.01.04-18.47.36:341][801]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.04-18.47.36:341][801]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_island_2
+[2022.01.04-18.47.36:342][801]LogWorld: UWorld::CleanupWorld for island_2, bSessionEnded=true, bCleanupResources=true
+[2022.01.04-18.47.36:342][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.04-18.47.36:349][801]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.04-18.47.36:362][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.04-18.47.36:366][801]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.04-18.47.36:367][801]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.04-18.47.36:368][801]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.04-18.47.36:373][801]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.01.04-18.47.36:378][801]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.01.04-18.47.36:414][802]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.01.04-18.48.38:963][758]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.01.04-18.48.38:967][758]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.04-18.48.38:967][758]PIE: New page: PIE session: island_2 (4. jan. 2022, 20:48:38)
+[2022.01.04-18.48.38:967][758]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_island_2
+[2022.01.04-18.48.38:986][758]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018775s)
+[2022.01.04-18.48.38:987][758]LogAIModule: Creating AISystem for world island_2
+[2022.01.04-18.48.38:987][758]LogPlayLevel: PIE: World Init took: (0.001011s)
+[2022.01.04-18.48.38:987][758]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/island_2.island_2 to /Game/ThirdPersonBP/Maps/UEDPIE_0_island_2.island_2 (0.019881s)
+[2022.01.04-18.48.39:022][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.01.04-18.48.39:025][758]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.01.04-18.48.39:025][758]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.04-18.48.39:025][758]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.04-18.48.39:025][758]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.04-18.48.39:025][758]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.04-18.48.39:025][758]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.04-18.48.39:025][758]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.04-18.48.39:025][758]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.04-18.48.39:025][758]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.04-18.48.39:025][758]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.04-18.48.39:025][758]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.04-18.48.39:029][758]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.04-18.48.39:029][758]LogAudioMixer: Display: 1: FrontRight
+[2022.01.04-18.48.39:040][758]LogAudioMixer: Display: Using Audio Device Høyttalere (Realtek(R) Audio)
+[2022.01.04-18.48.39:040][758]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.04-18.48.39:041][758]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.04-18.48.39:041][758]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.04-18.48.39:041][758]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.04-18.48.39:041][758]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.04-18.48.39:042][758]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.04-18.48.39:042][758]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.04-18.48.39:042][758]LogInit: FAudioDevice initialized.
+[2022.01.04-18.48.39:042][758]LogAudio: Display: Audio Device (ID: 3) registered with world 'island_2'.
+[2022.01.04-18.48.39:051][758]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.01.04-18.48.39:053][758]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_island_2.island_2 up for play (max tick rate 0) at 2022.01.04-19.48.39
+[2022.01.04-18.48.39:053][758]LogWorld: Bringing up level for play took: 0.002494
+[2022.01.04-18.48.39:053][758]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2022.01.04-18.48.39:055][758]PIE: Server logged in
+[2022.01.04-18.48.39:055][758]PIE: Play in editor total start time 0,089 seconds.
+[2022.01.04-18.50.08:179][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.04-18.50.08:179][696]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_island_2
+[2022.01.04-18.50.08:179][696]LogWorld: UWorld::CleanupWorld for island_2, bSessionEnded=true, bCleanupResources=true
+[2022.01.04-18.50.08:180][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.04-18.50.08:191][696]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.04-18.50.08:219][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.04-18.50.08:224][696]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.04-18.50.08:225][696]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.04-18.50.08:225][696]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.04-18.50.08:228][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.04-18.50.08:231][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.01.04-18.50.08:236][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.01.04-18.50.08:286][697]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.01.04-18.50.48:361][595]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.01.04-18.50.48:364][595]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.04-18.50.48:365][595]PIE: New page: PIE session: island_2 (4. jan. 2022, 20:50:48)
+[2022.01.04-18.50.48:365][595]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_island_2
+[2022.01.04-18.50.48:383][595]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018778s)
+[2022.01.04-18.50.48:384][595]LogAIModule: Creating AISystem for world island_2
+[2022.01.04-18.50.48:385][595]LogPlayLevel: PIE: World Init took: (0.001110s)
+[2022.01.04-18.50.48:385][595]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/island_2.island_2 to /Game/ThirdPersonBP/Maps/UEDPIE_0_island_2.island_2 (0.019983s)
+[2022.01.04-18.50.48:411][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.01.04-18.50.48:414][595]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.01.04-18.50.48:414][595]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.04-18.50.48:414][595]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.04-18.50.48:414][595]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.04-18.50.48:414][595]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.04-18.50.48:414][595]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.04-18.50.48:414][595]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.04-18.50.48:414][595]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.04-18.50.48:414][595]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.04-18.50.48:414][595]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.04-18.50.48:414][595]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.04-18.50.48:418][595]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.04-18.50.48:418][595]LogAudioMixer: Display: 1: FrontRight
+[2022.01.04-18.50.48:429][595]LogAudioMixer: Display: Using Audio Device Høyttalere (Realtek(R) Audio)
+[2022.01.04-18.50.48:430][595]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.04-18.50.48:430][595]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.04-18.50.48:430][595]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.04-18.50.48:430][595]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.04-18.50.48:430][595]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.04-18.50.48:431][595]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.04-18.50.48:431][595]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.04-18.50.48:431][595]LogInit: FAudioDevice initialized.
+[2022.01.04-18.50.48:431][595]LogAudio: Display: Audio Device (ID: 4) registered with world 'island_2'.
+[2022.01.04-18.50.48:440][595]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.01.04-18.50.48:442][595]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_island_2.island_2 up for play (max tick rate 0) at 2022.01.04-19.50.48
+[2022.01.04-18.50.48:442][595]LogWorld: Bringing up level for play took: 0.002456
+[2022.01.04-18.50.48:442][595]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2022.01.04-18.50.48:444][595]PIE: Server logged in
+[2022.01.04-18.50.48:444][595]PIE: Play in editor total start time 0,081 seconds.
+[2022.01.04-18.50.53:849][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.04-18.50.53:849][974]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_island_2
+[2022.01.04-18.50.53:849][974]LogWorld: UWorld::CleanupWorld for island_2, bSessionEnded=true, bCleanupResources=true
+[2022.01.04-18.50.53:850][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.04-18.50.53:860][974]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.04-18.50.53:885][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.04-18.50.53:889][974]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.04-18.50.53:890][974]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.04-18.50.53:891][974]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.04-18.50.53:893][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.04-18.50.53:899][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.01.04-18.50.53:904][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.01.04-18.50.53:945][975]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.01.04-18.51.10:128][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.01.04-18.51.10:175][615]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/island_2" FILE="../../../../../../Github/landscape/Content/ThirdPersonBP/Maps/island_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.04-18.51.10:179][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.01.04-18.51.10:252][615]LogSavePackage: Moving '../../../../../../Github/landscape/Saved/island_26B46AE4E423D3685A514AE9029AB603C.tmp' to '../../../../../../Github/landscape/Content/ThirdPersonBP/Maps/island_2.umap'
+[2022.01.04-18.51.10:259][615]LogFileHelpers: Saving map 'island_2' took 0.085
+[2022.01.04-18.51.10:286][615]AssetCheck: New page: Asset Save: island_2
+[2022.01.04-18.51.10:286][615]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/island_2.island_2
+[2022.01.04-18.51.28:927][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/island_2" FILE="../../../../../../Github/landscape/Content/ThirdPersonBP/Maps/island_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.04-18.51.28:931][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.01.04-18.51.28:999][294]LogSavePackage: Moving '../../../../../../Github/landscape/Saved/island_21670745B499721F31195668EF947C658.tmp' to '../../../../../../Github/landscape/Content/ThirdPersonBP/Maps/island_2.umap'
+[2022.01.04-18.51.29:013][294]AssetCheck: New page: Asset Save: island_2
+[2022.01.04-18.51.29:013][294]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/island_2.island_2
+[2022.01.04-18.51.31:425][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
