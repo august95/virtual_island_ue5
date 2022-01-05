@@ -2889,3 +2889,21 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.01.05-19.00.38:768][743]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
 [2022.01.05-19.00.42:186][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
 [2022.01.05-19.00.48:416][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.01.05-19.01.18:972][111]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2022.01.05-19.01.21:322][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/FineSand_LayerInfo" FILE="../../../../../../Github/landscape/Content/materials/FineSand_LayerInfo.uasset" SILENT=true
+[2022.01.05-19.01.21:322][289]LogSavePackage: Moving '../../../../../../Github/landscape/Saved/FineSand_LayerInfo3CC69C094A2E488BDE2F7AA9BC36C9B2.tmp' to '../../../../../../Github/landscape/Content/materials/FineSand_LayerInfo.uasset'
+[2022.01.05-19.01.21:331][289]AssetCheck: New page: Asset Save: FineSand_LayerInfo
+[2022.01.05-19.01.21:331][289]LogContentValidation: Display: Validating LandscapeLayerInfoObject /Game/materials/FineSand_LayerInfo.FineSand_LayerInfo
+[2022.01.05-19.01.30:234][156]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.01.05-19.01.30:285][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/island_2" FILE="../../../../../../Github/landscape/Content/ThirdPersonBP/Maps/island_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.05-19.01.30:288][156]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.01.05-19.01.30:411][156]LogSavePackage: Moving '../../../../../../Github/landscape/Saved/island_2F24D7929493FE066E8BAC1B76E44F0FD.tmp' to '../../../../../../Github/landscape/Content/ThirdPersonBP/Maps/island_2.umap'
+[2022.01.05-19.01.30:415][156]LogFileHelpers: Saving map 'island_2' took 0.131
+[2022.01.05-19.01.30:424][156]AssetCheck: New page: Asset Save: island_2
+[2022.01.05-19.01.30:424][156]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/island_2.island_2
+[2022.01.05-19.01.33:732][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.01.05-19.01.34:954][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/island_2" FILE="../../../../../../Github/landscape/Content/ThirdPersonBP/Maps/island_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.05-19.01.34:959][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.01.05-19.01.35:081][555]LogSavePackage: Moving '../../../../../../Github/landscape/Saved/island_2D4C131BE4F51BFBCBAC21BA5B478E5F3.tmp' to '../../../../../../Github/landscape/Content/ThirdPersonBP/Maps/island_2.umap'
+[2022.01.05-19.01.35:093][555]AssetCheck: New page: Asset Save: island_2
+[2022.01.05-19.01.35:093][555]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/island_2.island_2
