@@ -1946,3 +1946,946 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.01.05-18.49.14:935][250]AssetCheck: New page: Asset Save: island_2
 [2022.01.05-18.49.14:935][250]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/island_2.island_2
 [2022.01.05-18.49.15:560][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.01.05-18.50.54:139][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/island_2" FILE="../../../../../../Github/landscape/Content/ThirdPersonBP/Maps/island_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.05-18.50.54:142][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.01.05-18.50.54:252][555]LogSavePackage: Moving '../../../../../../Github/landscape/Saved/island_2DC92F196438A21B108365AADF882E97C.tmp' to '../../../../../../Github/landscape/Content/ThirdPersonBP/Maps/island_2.umap'
+[2022.01.05-18.50.54:265][555]AssetCheck: New page: Asset Save: island_2
+[2022.01.05-18.50.54:265][555]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/island_2.island_2
+[2022.01.05-18.51.07:098][674]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:098][674]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:105][674]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:108][674]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:116][674]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:117][674]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:124][674]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:126][674]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:134][674]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:136][674]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:145][674]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:148][674]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:154][674]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:156][674]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:255][675]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:255][675]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:256][675]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:256][675]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:257][675]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:257][675]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:259][675]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:259][675]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:260][675]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:260][675]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:261][675]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:261][675]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:263][675]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:263][675]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:264][675]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:264][675]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:264][675]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:264][675]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:264][675]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:264][675]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:264][675]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:264][675]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:264][675]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:264][675]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:264][675]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:264][675]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:264][675]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:264][675]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:266][675]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.01.05-18.51.07:266][675]LogShaderCompilers: Display: Total job queries 675, among them cache hits 309 (45.78%)
+[2022.01.05-18.51.07:266][675]LogShaderCompilers: Display: Tracking 366 distinct input hashes that result in 190 distinct outputs (51.91%)
+[2022.01.05-18.51.07:266][675]LogShaderCompilers: Display: RAM used: 1.30 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.16%
+[2022.01.05-18.51.07:266][675]LogShaderCompilers: Display: ================================================
+[2022.01.05-18.51.07:282][677]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:282][677]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:282][677]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:282][677]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:282][677]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:282][677]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:282][677]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:282][677]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:282][677]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:282][677]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:282][677]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:282][677]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:282][677]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.07:282][677]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.35:754][ 74]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 64X64)
+[2022.01.05-18.51.35:760][ 74]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_19 in PCD3D_SM5, Default, SM5 (DDC key hash: E1A100F7105DE865A76851BFA7573AF8A05FDEEF), compiling. 
+[2022.01.05-18.51.35:790][ 74]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_22 in PCD3D_SM5, Default, SM5 (DDC key hash: B7344261F77B3B73E920988E77DF34BD4C068037), compiling. 
+[2022.01.05-18.51.37:103][110]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 64X64)
+[2022.01.05-18.51.44:646][261]LogD3D12RHI: Creating RTPSO with 55 shaders (0 cached, 1 new) took 14.48 ms. Compile time 10.62 ms, link time 3.65 ms.
+[2022.01.05-18.51.49:141][479]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 64X64)
+[2022.01.05-18.51.57:654][ 99]Cmd: TRANSACTION UNDO
+[2022.01.05-18.51.57:654][ 99]LogEditorTransaction: Undo Landscape Editing: Paint
+[2022.01.05-18.51.57:691][ 99]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 64X64)
+[2022.01.05-18.51.57:697][ 99]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2022.01.05-18.51.57:698][ 99]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:698][ 99]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:699][ 99]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:699][ 99]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:699][ 99]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:699][ 99]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:699][ 99]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:699][ 99]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:700][ 99]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:700][ 99]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:701][ 99]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:701][ 99]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:701][ 99]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:701][ 99]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:701][ 99]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:701][ 99]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:702][ 99]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:702][ 99]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:703][ 99]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:703][ 99]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:703][ 99]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:703][ 99]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:703][ 99]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:703][ 99]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:703][ 99]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:703][ 99]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:704][ 99]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:704][ 99]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:704][ 99]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:704][ 99]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:704][ 99]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:704][ 99]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:705][ 99]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:705][ 99]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:705][ 99]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:705][ 99]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:706][ 99]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:706][ 99]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:706][ 99]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:706][ 99]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:706][ 99]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:706][ 99]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:707][ 99]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:707][ 99]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:707][ 99]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:707][ 99]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:707][ 99]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:707][ 99]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:708][ 99]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:708][ 99]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:709][ 99]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:709][ 99]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:709][ 99]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:709][ 99]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:709][ 99]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:709][ 99]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:709][ 99]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:709][ 99]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:710][ 99]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:710][ 99]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.57:753][ 99]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: CBF09F1E3A9AAE9E2C7987962E575D144852D2DA), compiling. 
+[2022.01.05-18.51.57:782][ 99]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.05-18.51.57:782][ 99]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.05-18.51.57:782][ 99]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.05-18.51.57:782][ 99]MaterialEditorStats: 
+[2022.01.05-18.51.57:782][ 99]MaterialEditorStats: Shader Count: 0
+[2022.01.05-18.51.58:023][103]MaterialEditorStats: Base pass shader: 156 instructions
+[2022.01.05-18.51.58:023][103]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 234 instructions
+[2022.01.05-18.51.58:023][103]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.01.05-18.51.58:023][103]MaterialEditorStats: Texture samplers: 3/16
+[2022.01.05-18.51.58:023][103]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.05-18.51.58:023][103]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.05-18.51.58:023][103]MaterialEditorStats: 
+[2022.01.05-18.51.58:023][103]MaterialEditorStats: Shader Count: 17
+[2022.01.05-18.51.58:350][119]Cmd: TRANSACTION UNDO
+[2022.01.05-18.51.58:350][119]LogEditorTransaction: Undo Landscape Editing: Paint
+[2022.01.05-18.51.58:390][119]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:390][119]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:390][119]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:390][119]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:390][119]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:390][119]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:390][119]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:390][119]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:392][119]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:392][119]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:392][119]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:392][119]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:392][119]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:392][119]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:392][119]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:392][119]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:393][119]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:393][119]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:393][119]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:393][119]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:393][119]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:393][119]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:393][119]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:393][119]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:394][119]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:394][119]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:394][119]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:394][119]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:394][119]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:394][119]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:394][119]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:394][119]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:395][119]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:395][119]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:395][119]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:395][119]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:395][119]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:395][119]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:395][119]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:395][119]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:396][119]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:396][119]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:396][119]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:396][119]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:396][119]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:396][119]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:396][119]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:396][119]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:397][119]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:397][119]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:397][119]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:397][119]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:397][119]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:397][119]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:397][119]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:397][119]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:397][119]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:398][119]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:398][119]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:398][119]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-18.51.58:452][119]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: 120E6A4C8CA55043A05EFC4F2B3A5EBF55B87B53), compiling. 
+[2022.01.05-18.51.58:468][119]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.05-18.51.58:468][119]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.05-18.51.58:468][119]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.05-18.51.58:468][119]MaterialEditorStats: 
+[2022.01.05-18.51.58:468][119]MaterialEditorStats: Shader Count: 0
+[2022.01.05-18.51.58:562][124]MaterialEditorStats: Base pass shader: 156 instructions
+[2022.01.05-18.51.58:562][124]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 234 instructions
+[2022.01.05-18.51.58:562][124]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.01.05-18.51.58:562][124]MaterialEditorStats: Texture samplers: 3/16
+[2022.01.05-18.51.58:562][124]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.05-18.51.58:562][124]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.05-18.51.58:562][124]MaterialEditorStats: 
+[2022.01.05-18.51.58:562][124]MaterialEditorStats: Shader Count: 17
+[2022.01.05-18.52.09:883][  6]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 64X64)
+[2022.01.05-18.52.09:886][  6]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_45 in PCD3D_SM5, Default, SM5 (DDC key hash: 04B7DA61A95FA25D8C9862E6902081879A12DD33), compiling. 
+[2022.01.05-18.52.09:923][  6]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 64X64)
+[2022.01.05-18.52.09:929][  6]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 64X64)
+[2022.01.05-18.52.09:969][  8]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 64X64)
+[2022.01.05-18.52.09:979][  8]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 64X64)
+[2022.01.05-18.52.14:289][131]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 64X64)
+[2022.01.05-18.52.14:423][135]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 64X64)
+[2022.01.05-18.52.14:691][143]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 64X64)
+[2022.01.05-18.52.14:775][145]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 64X64)
+[2022.01.05-18.52.14:778][145]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_74 in PCD3D_SM5, Default, SM5 (DDC key hash: 69AB5419318DA100E43949832214D0E8E8136160), compiling. 
+[2022.01.05-18.52.19:135][192]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 64X64)
+[2022.01.05-18.52.19:161][192]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 64X64)
+[2022.01.05-18.52.19:177][192]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 64X64)
+[2022.01.05-18.52.19:642][197]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 64X64)
+[2022.01.05-18.52.36:583][298]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_97 in PCD3D_SM5, Default, SM5 (DDC key hash: 92CF020395DC1B0D7FF8C6CA92035BFAFB314A25), compiling. 
+[2022.01.05-18.52.42:165][472]LogD3D12RHI: Creating RTPSO with 57 shaders (0 cached, 1 new) took 97.34 ms. Compile time 95.51 ms, link time 1.72 ms.
+[2022.01.05-18.52.45:933][720]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 64X64)
+[2022.01.05-18.58.15:196][336]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: 227A13A3BDC847C5E6FC6863A53E7A29DAEC4064), compiling. 
+[2022.01.05-18.58.15:201][336]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: AE19718F15A3A3D1AF33C98A6437DD3E374B3668), compiling. 
+[2022.01.05-18.58.15:203][336]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.05-18.58.15:203][336]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.05-18.58.15:203][336]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.05-18.58.15:203][336]MaterialEditorStats: 
+[2022.01.05-18.58.15:203][336]MaterialEditorStats: Shader Count: 0
+[2022.01.05-18.58.15:230][337]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.01.05-18.58.15:230][337]LogShaderCompilers: Display: Total job queries 992, among them cache hits 361 (36.39%)
+[2022.01.05-18.58.15:230][337]LogShaderCompilers: Display: Tracking 631 distinct input hashes that result in 296 distinct outputs (46.91%)
+[2022.01.05-18.58.15:230][337]LogShaderCompilers: Display: RAM used: 2.20 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.27%
+[2022.01.05-18.58.15:230][337]LogShaderCompilers: Display: ================================================
+[2022.01.05-18.58.15:238][338]MaterialEditorStats: Base pass shader: 156 instructions
+[2022.01.05-18.58.15:238][338]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 234 instructions
+[2022.01.05-18.58.15:238][338]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.01.05-18.58.15:238][338]MaterialEditorStats: Texture samplers: 3/16
+[2022.01.05-18.58.15:238][338]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.05-18.58.15:238][338]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.05-18.58.15:238][338]MaterialEditorStats: 
+[2022.01.05-18.58.15:238][338]MaterialEditorStats: Shader Count: 17
+[2022.01.05-18.58.43:385][629]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: 9672216B22DB6859FFAC7B5DE541C726C2732B19), compiling. 
+[2022.01.05-18.58.43:387][629]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_9 in PCD3D_SM5, Default, SM5 (DDC key hash: 7775FAEEF3067298B702CA282B1535CBF6A22406), compiling. 
+[2022.01.05-18.58.43:423][629]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.05-18.58.43:423][629]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.05-18.58.43:423][629]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.05-18.58.43:423][629]MaterialEditorStats: 
+[2022.01.05-18.58.43:423][629]MaterialEditorStats: Shader Count: 0
+[2022.01.05-18.58.43:474][631]MaterialEditorStats: Texture samplers: 3/16
+[2022.01.05-18.58.43:475][631]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.05-18.58.43:475][631]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.05-18.58.43:475][631]MaterialEditorStats: 
+[2022.01.05-18.58.43:475][631]MaterialEditorStats: Shader Count: 2
+[2022.01.05-18.58.43:483][632]MaterialEditorStats: Base pass shader: 156 instructions
+[2022.01.05-18.58.43:483][632]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 234 instructions
+[2022.01.05-18.58.43:483][632]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.01.05-18.58.43:483][632]MaterialEditorStats: Texture samplers: 3/16
+[2022.01.05-18.58.43:483][632]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.05-18.58.43:483][632]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.05-18.58.43:483][632]MaterialEditorStats: 
+[2022.01.05-18.58.43:483][632]MaterialEditorStats: Shader Count: 17
+[2022.01.05-18.58.43:539][635]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.01.05-18.58.43:561][635]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.01.05-18.58.59:755][510]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: 9EF6C995DF8CA811784FE678DB7E941C114A46E2), compiling. 
+[2022.01.05-18.58.59:758][510]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_7 in PCD3D_SM5, Default, SM5 (DDC key hash: DDB9C824C68BEAB86DDE4F367BB672426C191944), compiling. 
+[2022.01.05-18.58.59:769][510]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.05-18.58.59:769][510]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.05-18.58.59:769][510]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.05-18.58.59:769][510]MaterialEditorStats: 
+[2022.01.05-18.58.59:769][510]MaterialEditorStats: Shader Count: 0
+[2022.01.05-18.58.59:820][512]MaterialEditorStats: Texture samplers: 3/16
+[2022.01.05-18.58.59:820][512]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.05-18.58.59:820][512]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.05-18.58.59:820][512]MaterialEditorStats: 
+[2022.01.05-18.58.59:820][512]MaterialEditorStats: Shader Count: 2
+[2022.01.05-18.58.59:829][513]MaterialEditorStats: Base pass shader: 156 instructions
+[2022.01.05-18.58.59:829][513]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 234 instructions
+[2022.01.05-18.58.59:829][513]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.01.05-18.58.59:829][513]MaterialEditorStats: Texture samplers: 3/16
+[2022.01.05-18.58.59:829][513]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.05-18.58.59:829][513]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.05-18.58.59:829][513]MaterialEditorStats: 
+[2022.01.05-18.58.59:829][513]MaterialEditorStats: Shader Count: 17
+[2022.01.05-18.59.09:148][569]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: EA1550604E899F8E34E91C7A3AFE3C6DA606894B), compiling. 
+[2022.01.05-18.59.09:152][569]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_7 in PCD3D_SM5, Default, SM5 (DDC key hash: DB41A3073D5E379B9C19AE82741FA366EBF13A5A), compiling. 
+[2022.01.05-18.59.09:162][569]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.05-18.59.09:162][569]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.05-18.59.09:162][569]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.05-18.59.09:162][569]MaterialEditorStats: 
+[2022.01.05-18.59.09:162][569]MaterialEditorStats: Shader Count: 0
+[2022.01.05-18.59.09:215][571]MaterialEditorStats: Texture samplers: 3/16
+[2022.01.05-18.59.09:215][571]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.05-18.59.09:215][571]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.05-18.59.09:215][571]MaterialEditorStats: 
+[2022.01.05-18.59.09:215][571]MaterialEditorStats: Shader Count: 2
+[2022.01.05-18.59.09:224][572]MaterialEditorStats: Base pass shader: 156 instructions
+[2022.01.05-18.59.09:224][572]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 234 instructions
+[2022.01.05-18.59.09:224][572]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.01.05-18.59.09:224][572]MaterialEditorStats: Texture samplers: 3/16
+[2022.01.05-18.59.09:224][572]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.05-18.59.09:224][572]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.05-18.59.09:224][572]MaterialEditorStats: 
+[2022.01.05-18.59.09:224][572]MaterialEditorStats: Shader Count: 17
+[2022.01.05-18.59.09:286][575]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.01.05-18.59.18:862][683]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: 0604542DA4127888267842E75A70074DBC54F074), compiling. 
+[2022.01.05-18.59.18:869][683]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_8 in PCD3D_SM5, Default, SM5 (DDC key hash: 083A33CF92640A1E93B6CCA7554A8F349EC585DD), compiling. 
+[2022.01.05-18.59.18:875][683]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.05-18.59.18:875][683]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.05-18.59.18:875][683]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.05-18.59.18:875][683]MaterialEditorStats: 
+[2022.01.05-18.59.18:875][683]MaterialEditorStats: Shader Count: 0
+[2022.01.05-18.59.18:927][685]MaterialEditorStats: Texture samplers: 3/16
+[2022.01.05-18.59.18:927][685]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.05-18.59.18:927][685]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.05-18.59.18:927][685]MaterialEditorStats: 
+[2022.01.05-18.59.18:927][685]MaterialEditorStats: Shader Count: 2
+[2022.01.05-18.59.18:937][686]MaterialEditorStats: Base pass shader: 156 instructions
+[2022.01.05-18.59.18:937][686]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 234 instructions
+[2022.01.05-18.59.18:937][686]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.01.05-18.59.18:937][686]MaterialEditorStats: Texture samplers: 3/16
+[2022.01.05-18.59.18:937][686]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.05-18.59.18:937][686]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.05-18.59.18:937][686]MaterialEditorStats: 
+[2022.01.05-18.59.18:937][686]MaterialEditorStats: Shader Count: 17
+[2022.01.05-18.59.19:002][689]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.01.05-19.00.02:109][757]LogMaterialEditor: Saving and Compiling material LandscapeMat
+[2022.01.05-19.00.02:427][757]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: F2EDEDF5ACA56AB8D95815CE187BA8534FA88177), compiling. 
+[2022.01.05-19.00.02:500][757]LogMaterial: Display: Missing cached shadermap for LandscapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: B2A89DD5D93E19CE2AA6115D125C11A84BAD8C24), compiling. 
+[2022.01.05-19.00.02:508][757]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_45 in PCD3D_SM5, Default, SM5 (DDC key hash: E0E02992EDA0F42EFDCE7B3D61468E52743FA17E), compiling. 
+[2022.01.05-19.00.02:510][757]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_97 in PCD3D_SM5, Default, SM5 (DDC key hash: 54EC64007458D2E0941D7F447C39A2839341E97A), compiling. 
+[2022.01.05-19.00.02:512][757]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_76 in PCD3D_SM5, Default, SM5 (DDC key hash: ECAC684336027E13F5D8578501F08E13A7CEA163), compiling. 
+[2022.01.05-19.00.02:513][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:513][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:514][757]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_86 in PCD3D_SM5, Default, SM5 (DDC key hash: 0C1194F89E56DBC2837F4D04088777E3408196EA), compiling. 
+[2022.01.05-19.00.02:515][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:515][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:515][757]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_85 in PCD3D_SM5, Default, SM5 (DDC key hash: 246D5CB2CB17E6FD169E708767A2D6E4867DA870), compiling. 
+[2022.01.05-19.00.02:516][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:516][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:517][757]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_84 in PCD3D_SM5, Default, SM5 (DDC key hash: 72174716C939151B0C01EACB57CB278AF21302A9), compiling. 
+[2022.01.05-19.00.02:518][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:518][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:518][757]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_83 in PCD3D_SM5, Default, SM5 (DDC key hash: 11D0B760C195E9EDC782CD68BCD0BD8A7C298800), compiling. 
+[2022.01.05-19.00.02:519][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:519][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:520][757]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_82 in PCD3D_SM5, Default, SM5 (DDC key hash: 17A38D7A8C04C8FB7685719902E6357B4668690A), compiling. 
+[2022.01.05-19.00.02:521][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:521][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:521][757]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_81 in PCD3D_SM5, Default, SM5 (DDC key hash: 49945E185459C57CF1ABB56C0D0066A80727741E), compiling. 
+[2022.01.05-19.00.02:522][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:522][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:523][757]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_80 in PCD3D_SM5, Default, SM5 (DDC key hash: 43010E4F9D795729923D454253345AC3CCB1362B), compiling. 
+[2022.01.05-19.00.02:524][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:524][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:524][757]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_79 in PCD3D_SM5, Default, SM5 (DDC key hash: B2BA317A3333108128F83C5892DCEF01BFCEFB0A), compiling. 
+[2022.01.05-19.00.02:526][757]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_187 in PCD3D_SM5, Default, SM5 (DDC key hash: 40E6D582D6AD0D862733F615CABD6FD537200D36), compiling. 
+[2022.01.05-19.00.02:528][757]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_347 in PCD3D_SM5, Default, SM5 (DDC key hash: A0DBD94D74C0A83EC5AACCAD8393C990D6E5AAB5), compiling. 
+[2022.01.05-19.00.02:529][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:529][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:529][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:529][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:529][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:529][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:529][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:529][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:529][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:529][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:529][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:529][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:529][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:529][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:529][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:529][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:530][757]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_19 in PCD3D_SM5, Default, SM5 (DDC key hash: 187D9D30EE9A5C8257BCF29097943C1D8B8B50CD), compiling. 
+[2022.01.05-19.00.02:532][757]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_24 in PCD3D_SM5, Default, SM5 (DDC key hash: BB1A469BE704FFB9FA25A386841F154B8D56229B), compiling. 
+[2022.01.05-19.00.02:534][757]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 6A2937A45EB95B873748B274E8C286CEC6224329), compiling. 
+[2022.01.05-19.00.02:536][757]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 950B27B9BC7783B70D93621F90C1673984D6938C), compiling. 
+[2022.01.05-19.00.02:537][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:537][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:537][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:537][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:537][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:537][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:538][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:538][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:538][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:538][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:538][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:538][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:538][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:538][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:538][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:538][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:644][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.01.05-19.00.02:761][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:761][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:762][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:762][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:764][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:764][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:764][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:764][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:765][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:765][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:765][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:765][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:766][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:766][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:766][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:766][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:767][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:767][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:767][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:767][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:767][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:767][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:768][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:768][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:768][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:768][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:768][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:768][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:769][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:769][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:770][757]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_94 in PCD3D_SM5, Default, SM5 (DDC key hash: E40F00CAA79CB7B30CC281CE028C0162D8898FEA), compiling. 
+[2022.01.05-19.00.02:771][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:771][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:771][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:771][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:772][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:772][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:840][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.01.05-19.00.02:939][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/LandscapeMat" FILE="../../../../../../Github/landscape/Content/materials/LandscapeMat.uasset" SILENT=true
+[2022.01.05-19.00.02:948][757]LogSavePackage: Moving '../../../../../../Github/landscape/Saved/LandscapeMat4DE2B78C43F5003EF9ADA7A41FD12994.tmp' to '../../../../../../Github/landscape/Content/materials/LandscapeMat.uasset'
+[2022.01.05-19.00.02:958][757]AssetCheck: New page: Asset Save: LandscapeMat
+[2022.01.05-19.00.02:958][757]LogContentValidation: Display: Validating Material /Game/materials/LandscapeMat.LandscapeMat
+[2022.01.05-19.00.02:960][757]MaterialEditorStats: Texture samplers: 1/16
+[2022.01.05-19.00.02:960][757]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.05-19.00.02:960][757]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.05-19.00.02:960][757]MaterialEditorStats: 
+[2022.01.05-19.00.02:960][757]MaterialEditorStats: Shader Count: 2
+[2022.01.05-19.00.02:966][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:966][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:967][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:967][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:969][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:969][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:969][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:970][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:970][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:971][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:971][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:971][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:971][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:971][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:972][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:972][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:972][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:972][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:972][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:972][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:973][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:973][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:973][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:973][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:974][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:974][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:974][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:974][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:975][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:975][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:975][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:975][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:975][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:976][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:976][757]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.02:976][757]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:036][758]MaterialEditorStats: Base pass shader: 156 instructions
+[2022.01.05-19.00.03:036][758]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 234 instructions
+[2022.01.05-19.00.03:036][758]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.01.05-19.00.03:036][758]MaterialEditorStats: Texture samplers: 4/16
+[2022.01.05-19.00.03:036][758]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.05-19.00.03:036][758]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.05-19.00.03:036][758]MaterialEditorStats: 
+[2022.01.05-19.00.03:036][758]MaterialEditorStats: Shader Count: 36
+[2022.01.05-19.00.03:042][759]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:042][759]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:050][760]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:050][760]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:059][760]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:060][760]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:068][760]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:068][760]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:079][760]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:082][760]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:092][760]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:096][760]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:107][760]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:109][760]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:119][760]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:121][760]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:133][760]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:135][760]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:145][760]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:145][760]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:149][760]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:149][760]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:154][760]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:154][760]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:157][760]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:157][760]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:163][760]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:163][760]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:168][760]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:168][760]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:219][760]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:219][760]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:219][760]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:219][760]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:222][760]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:222][760]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:222][760]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:222][760]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:224][760]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:224][760]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:224][760]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:224][760]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:227][760]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:227][760]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:227][760]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:227][760]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:229][760]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:229][760]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:229][760]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:229][760]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:232][760]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:232][760]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:232][760]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:232][760]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:234][760]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:234][760]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:234][760]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:234][760]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:235][760]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:235][760]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:236][760]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:236][760]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:236][760]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:236][760]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:236][760]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:236][760]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:236][760]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:236][760]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:236][760]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:236][760]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:236][760]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:236][760]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:236][760]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:236][760]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:236][760]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:236][760]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:236][760]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:236][760]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:236][760]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:236][760]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:236][760]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:236][760]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:236][760]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:236][760]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:236][760]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:236][760]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:250][761]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:250][761]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:250][761]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:250][761]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:250][761]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:250][761]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:250][761]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:250][761]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:250][761]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:250][761]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:251][761]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:251][761]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:251][761]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:251][761]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:251][761]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:251][761]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:251][761]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:251][761]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:251][761]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:251][761]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:251][761]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:251][761]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:251][761]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:251][761]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:251][761]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:251][761]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:251][761]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.03:251][761]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.04:312][821]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.04:312][821]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.04:312][821]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.04:312][821]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.04:331][823]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.04:331][823]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.04:367][827]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.04:367][827]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.04:367][827]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.04:367][827]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.04:384][828]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.04:384][828]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.04:402][830]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.04:402][830]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.04:402][830]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.04:402][830]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.04:409][831]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.04:409][831]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.04:694][865]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.04:694][865]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.04:694][865]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.04:694][865]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.04:701][866]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.04:701][866]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.04:702][866]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.04:702][866]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.04:702][866]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.04:702][866]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.04:703][866]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.04:703][866]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.04:703][866]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.04:703][866]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.04:710][867]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.04:710][867]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.04:710][867]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.04:710][867]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.06:298][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.01.05-19.00.06:363][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/island_2" FILE="../../../../../../Github/landscape/Content/ThirdPersonBP/Maps/island_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.05-19.00.06:367][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.01.05-19.00.06:375][ 41]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 64X64)
+[2022.01.05-19.00.06:376][ 41]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2022.01.05-19.00.06:377][ 41]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2022.01.05-19.00.06:377][ 41]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 64X64)
+[2022.01.05-19.00.06:378][ 41]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 64X64)
+[2022.01.05-19.00.06:379][ 41]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 64X64)
+[2022.01.05-19.00.06:379][ 41]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2022.01.05-19.00.06:380][ 41]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2022.01.05-19.00.06:381][ 41]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 64X64)
+[2022.01.05-19.00.06:382][ 41]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 64X64)
+[2022.01.05-19.00.06:383][ 41]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 64X64)
+[2022.01.05-19.00.06:383][ 41]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 64X64)
+[2022.01.05-19.00.06:384][ 41]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 64X64)
+[2022.01.05-19.00.06:385][ 41]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2022.01.05-19.00.06:385][ 41]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 64X64)
+[2022.01.05-19.00.06:386][ 41]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2022.01.05-19.00.06:387][ 41]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 64X64)
+[2022.01.05-19.00.06:387][ 41]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 64X64)
+[2022.01.05-19.00.06:388][ 41]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 64X64)
+[2022.01.05-19.00.06:389][ 41]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 64X64)
+[2022.01.05-19.00.06:389][ 41]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 64X64)
+[2022.01.05-19.00.06:390][ 41]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2022.01.05-19.00.06:391][ 41]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 64X64)
+[2022.01.05-19.00.06:391][ 41]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 64X64)
+[2022.01.05-19.00.06:392][ 41]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 64X64)
+[2022.01.05-19.00.06:392][ 41]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 64X64)
+[2022.01.05-19.00.06:393][ 41]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 64X64)
+[2022.01.05-19.00.06:394][ 41]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 64X64)
+[2022.01.05-19.00.06:394][ 41]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 64X64)
+[2022.01.05-19.00.06:395][ 41]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 64X64)
+[2022.01.05-19.00.06:396][ 41]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 64X64)
+[2022.01.05-19.00.06:396][ 41]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2022.01.05-19.00.06:397][ 41]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 64X64)
+[2022.01.05-19.00.06:514][ 41]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 64X64)
+[2022.01.05-19.00.06:514][ 41]LogSavePackage: Moving '../../../../../../Github/landscape/Saved/island_2E39DC44543D448EDF83295A234BA57DD.tmp' to '../../../../../../Github/landscape/Content/ThirdPersonBP/Maps/island_2.umap'
+[2022.01.05-19.00.06:518][ 41]LogFileHelpers: Saving map 'island_2' took 0.156
+[2022.01.05-19.00.06:527][ 41]AssetCheck: New page: Asset Save: island_2
+[2022.01.05-19.00.06:527][ 41]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/island_2.island_2
+[2022.01.05-19.00.37:781][739]LogMaterialEditor: Saving and Compiling material LandscapeMat
+[2022.01.05-19.00.38:100][739]LogMaterial: Display: Missing cached shadermap for Preview:LandscapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: 1AEE2920B3AC5EE3834998EFF4C63E15E90DF5F8), compiling. 
+[2022.01.05-19.00.38:166][739]LogMaterial: Display: Missing cached shadermap for LandscapeMat in PCD3D_SM5, Default, SM5 (DDC key hash: CE3A64516D16031897F54AE86A32C17A506005CA), compiling. 
+[2022.01.05-19.00.38:168][739]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:168][739]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:168][739]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_104 in PCD3D_SM5, Default, SM5 (DDC key hash: 32EBF24BACEAD5A0661EE5B180FA6C30A6395F91), compiling. 
+[2022.01.05-19.00.38:175][739]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_45 in PCD3D_SM5, Default, SM5 (DDC key hash: F819291972B6748D15AA6A46A4B12DD6A6E621F4), compiling. 
+[2022.01.05-19.00.38:176][739]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:176][739]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:176][739]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_103 in PCD3D_SM5, Default, SM5 (DDC key hash: D9940D91ADFA9E104C36E79B99AB7C7C3C9021FE), compiling. 
+[2022.01.05-19.00.38:177][739]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:177][739]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:178][739]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_102 in PCD3D_SM5, Default, SM5 (DDC key hash: 4DDC59023A09A519037ACA35EBDFD39F11272055), compiling. 
+[2022.01.05-19.00.38:179][739]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:179][739]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:179][739]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_101 in PCD3D_SM5, Default, SM5 (DDC key hash: 160D3B42992AC63064FFA90B2D149339C8A5B826), compiling. 
+[2022.01.05-19.00.38:180][739]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:180][739]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:181][739]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_100 in PCD3D_SM5, Default, SM5 (DDC key hash: D437FB1007A8551FCD9FDEA8A76954A47E5B72E8), compiling. 
+[2022.01.05-19.00.38:182][739]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:182][739]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:182][739]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_99 in PCD3D_SM5, Default, SM5 (DDC key hash: 259E906A06EA8655597019FE48CEBBF97F971F5A), compiling. 
+[2022.01.05-19.00.38:183][739]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:183][739]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:184][739]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_98 in PCD3D_SM5, Default, SM5 (DDC key hash: A7206494EB5DF5142373269160E500F3410137A6), compiling. 
+[2022.01.05-19.00.38:185][739]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:185][739]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:185][739]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_97 in PCD3D_SM5, Default, SM5 (DDC key hash: 2DC2FC4D5C72DD75A4F5485265567CDF80DC0994), compiling. 
+[2022.01.05-19.00.38:186][739]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:186][739]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:187][739]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_96 in PCD3D_SM5, Default, SM5 (DDC key hash: F4D4A349DF22A0ABF42BA42361A5C5C52BDDA0E2), compiling. 
+[2022.01.05-19.00.38:189][739]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_187 in PCD3D_SM5, Default, SM5 (DDC key hash: 88B51DC85B80CB92A4B955ECBB4F628602E0B860), compiling. 
+[2022.01.05-19.00.38:190][739]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_347 in PCD3D_SM5, Default, SM5 (DDC key hash: 99B9D073231285603051ED401E1D63F4E12F8AA5), compiling. 
+[2022.01.05-19.00.38:192][739]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_76 in PCD3D_SM5, Default, SM5 (DDC key hash: 2AFD4AD0328E11D11347AB78FF52642B77C7341E), compiling. 
+[2022.01.05-19.00.38:194][739]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_97 in PCD3D_SM5, Default, SM5 (DDC key hash: 113A8F12CAE56083DD6C92B632080BC2B19ED1C4), compiling. 
+[2022.01.05-19.00.38:196][739]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_24 in PCD3D_SM5, Default, SM5 (DDC key hash: 50DCDF867DC6C459E17F9363A2D7E51FE47239FB), compiling. 
+[2022.01.05-19.00.38:198][739]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_21 in PCD3D_SM5, Default, SM5 (DDC key hash: 9BA5C5DCC3F8943A17DEA28D3A4020803537FCA1), compiling. 
+[2022.01.05-19.00.38:200][739]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 2F7A0ABD4BD2B9B50EA936A4C2C87ED570C4F4C4), compiling. 
+[2022.01.05-19.00.38:202][739]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_2 in PCD3D_SM5, Default, SM5 (DDC key hash: EFBAF21C7EC1975A0EF707EC4881B76FD9A7CC07), compiling. 
+[2022.01.05-19.00.38:307][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.01.05-19.00.38:426][739]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:426][739]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:427][739]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:427][739]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:428][739]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:428][739]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:429][739]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:429][739]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:430][739]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:430][739]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:430][739]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:430][739]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:431][739]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:431][739]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:431][739]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:431][739]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:432][739]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:432][739]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:432][739]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:432][739]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:432][739]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:432][739]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:433][739]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:433][739]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:433][739]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:433][739]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:433][739]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:434][739]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:434][739]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:434][739]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:434][739]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:434][739]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:435][739]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:435][739]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:435][739]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:435][739]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:498][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.01.05-19.00.38:570][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/LandscapeMat" FILE="../../../../../../Github/landscape/Content/materials/LandscapeMat.uasset" SILENT=true
+[2022.01.05-19.00.38:579][739]LogSavePackage: Moving '../../../../../../Github/landscape/Saved/LandscapeMat1F44E0D54CFFA1F2976EA4B87001227A.tmp' to '../../../../../../Github/landscape/Content/materials/LandscapeMat.uasset'
+[2022.01.05-19.00.38:589][739]AssetCheck: New page: Asset Save: LandscapeMat
+[2022.01.05-19.00.38:589][739]LogContentValidation: Display: Validating Material /Game/materials/LandscapeMat.LandscapeMat
+[2022.01.05-19.00.38:590][739]MaterialEditorStats: Texture samplers: 1/16
+[2022.01.05-19.00.38:590][739]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.05-19.00.38:590][739]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.05-19.00.38:590][739]MaterialEditorStats: 
+[2022.01.05-19.00.38:590][739]MaterialEditorStats: Shader Count: 2
+[2022.01.05-19.00.38:595][739]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:595][739]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:596][739]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:596][739]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:598][739]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:598][739]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:598][739]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:598][739]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:599][739]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:599][739]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:599][739]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:599][739]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:599][739]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:599][739]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:600][739]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:600][739]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:600][739]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:600][739]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:601][739]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:601][739]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:601][739]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:601][739]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:601][739]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:601][739]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:602][739]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:602][739]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:602][739]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:602][739]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:603][739]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:603][739]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:603][739]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:603][739]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:603][739]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:603][739]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:603][739]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:603][739]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:663][740]MaterialEditorStats: Base pass shader: 156 instructions
+[2022.01.05-19.00.38:663][740]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 234 instructions
+[2022.01.05-19.00.38:663][740]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2022.01.05-19.00.38:663][740]MaterialEditorStats: Texture samplers: 4/16
+[2022.01.05-19.00.38:663][740]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.05-19.00.38:663][740]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.05-19.00.38:663][740]MaterialEditorStats: 
+[2022.01.05-19.00.38:663][740]MaterialEditorStats: Shader Count: 36
+[2022.01.05-19.00.38:670][741]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:670][741]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:672][741]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:672][741]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:672][741]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:672][741]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:673][741]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:673][741]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:673][741]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:673][741]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:680][742]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:680][742]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:686][742]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:688][742]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:696][742]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:698][742]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:706][742]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:708][742]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:714][742]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:717][742]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:725][742]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:727][742]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:734][742]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:737][742]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:751][742]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:751][742]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:751][742]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:751][742]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:752][742]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:752][742]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:752][742]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:752][742]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:753][742]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:753][742]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:753][742]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:753][742]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:753][742]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:753][742]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:753][742]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:753][742]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:755][742]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:755][742]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:755][742]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:755][742]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:756][742]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:756][742]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:756][742]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:756][742]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:757][742]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:757][742]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:757][742]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:757][742]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:759][742]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:759][742]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:759][742]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:759][742]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:759][742]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:759][742]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:759][742]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:759][742]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:759][742]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:759][742]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:759][742]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:759][742]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:759][742]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:759][742]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:759][742]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:759][742]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:759][742]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:759][742]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:759][742]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:759][742]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:760][742]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:760][742]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:760][742]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:760][742]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:760][742]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:760][742]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:760][742]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:760][742]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:760][742]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:760][742]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:760][742]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:760][742]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:767][743]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:767][743]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:767][743]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:767][743]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:767][743]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:767][743]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:767][743]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:767][743]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:767][743]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:767][743]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:767][743]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:767][743]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:767][743]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:767][743]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:767][743]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:767][743]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:767][743]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:767][743]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:767][743]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:767][743]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:768][743]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:768][743]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:768][743]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:768][743]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:768][743]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:768][743]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:768][743]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.38:768][743]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.05-19.00.42:186][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.01.05-19.00.48:416][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
