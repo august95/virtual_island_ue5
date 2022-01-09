@@ -3038,3 +3038,337 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.01.09-12.39.13:405][598]LogSavePackage: Moving '../../../../../../Github/landscape/Saved/landscapeDA9F09804F3F0870361F37B5F428A09A.tmp' to '../../../../../../Github/landscape/Content/Maps/landscape.umap'
 [2022.01.09-12.39.13:435][598]AssetCheck: New page: Asset Save: landscape
 [2022.01.09-12.39.13:435][598]LogContentValidation: Display: Validating World /Game/Maps/landscape.landscape
+[2022.01.09-12.49.52:600][363]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.01.09-12.49.52:605][363]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.09-12.49.52:605][363]PIE: New page: PIE session: landscape (9. jan. 2022, 14:49:52)
+[2022.01.09-12.49.52:605][363]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_landscape
+[2022.01.09-12.49.52:623][363]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017853s)
+[2022.01.09-12.49.52:624][363]LogAIModule: Creating AISystem for world landscape
+[2022.01.09-12.49.52:624][363]LogPlayLevel: PIE: World Init took: (0.001079s)
+[2022.01.09-12.49.52:624][363]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/landscape.landscape to /Game/Maps/UEDPIE_0_landscape.landscape (0.019036s)
+[2022.01.09-12.49.52:667][363]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.01.09-12.49.52:670][363]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.01.09-12.49.52:670][363]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.09-12.49.52:670][363]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.09-12.49.52:670][363]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.09-12.49.52:670][363]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.09-12.49.52:670][363]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.09-12.49.52:670][363]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.09-12.49.52:670][363]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.09-12.49.52:670][363]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.09-12.49.52:670][363]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.09-12.49.52:670][363]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.09-12.49.52:674][363]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.09-12.49.52:674][363]LogAudioMixer: Display: 1: FrontRight
+[2022.01.09-12.49.52:686][363]LogAudioMixer: Display: Using Audio Device Høyttalere (Realtek(R) Audio)
+[2022.01.09-12.49.52:687][363]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.09-12.49.52:687][363]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.09-12.49.52:687][363]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.09-12.49.52:687][363]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.09-12.49.52:687][363]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.09-12.49.52:688][363]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.09-12.49.52:688][363]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.09-12.49.52:688][363]LogInit: FAudioDevice initialized.
+[2022.01.09-12.49.52:688][363]LogAudio: Display: Audio Device (ID: 18) registered with world 'landscape'.
+[2022.01.09-12.49.52:704][363]LogLoad: Game class is 'GameModeBase'
+[2022.01.09-12.49.52:708][363]LogWorld: Bringing World /Game/Maps/UEDPIE_0_landscape.landscape up for play (max tick rate 0) at 2022.01.09-13.49.52
+[2022.01.09-12.49.52:708][363]LogWorld: Bringing up level for play took: 0.004124
+[2022.01.09-12.49.52:708][363]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2022.01.09-12.49.52:710][363]PIE: Server logged in
+[2022.01.09-12.49.52:710][363]PIE: Play in editor total start time 0,106 seconds.
+[2022.01.09-12.50.17:117][929]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.09-12.50.17:117][929]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_landscape
+[2022.01.09-12.50.17:118][929]LogWorld: UWorld::CleanupWorld for landscape, bSessionEnded=true, bCleanupResources=true
+[2022.01.09-12.50.17:118][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.09-12.50.17:129][929]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.09-12.50.17:158][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.09-12.50.17:178][929]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.09-12.50.17:178][929]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.09-12.50.17:179][929]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.09-12.50.17:190][929]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.01.09-12.50.17:213][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.01.09-12.50.17:263][930]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.01.09-12.50.29:678][487]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.01.09-12.50.29:682][487]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.09-12.50.29:682][487]PIE: New page: PIE session: landscape (9. jan. 2022, 14:50:29)
+[2022.01.09-12.50.29:707][487]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_landscape
+[2022.01.09-12.50.29:723][487]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016495s)
+[2022.01.09-12.50.29:724][487]LogAIModule: Creating AISystem for world landscape
+[2022.01.09-12.50.29:724][487]LogPlayLevel: PIE: World Init took: (0.001088s)
+[2022.01.09-12.50.29:724][487]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/landscape.landscape to /Game/Maps/UEDPIE_0_landscape.landscape (0.017703s)
+[2022.01.09-12.50.29:748][487]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.01.09-12.50.29:752][487]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2022.01.09-12.50.29:752][487]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.09-12.50.29:752][487]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.09-12.50.29:752][487]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.09-12.50.29:752][487]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.09-12.50.29:752][487]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.09-12.50.29:752][487]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.09-12.50.29:752][487]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.09-12.50.29:752][487]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.09-12.50.29:752][487]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.09-12.50.29:752][487]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.09-12.50.29:755][487]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.09-12.50.29:756][487]LogAudioMixer: Display: 1: FrontRight
+[2022.01.09-12.50.29:767][487]LogAudioMixer: Display: Using Audio Device Høyttalere (Realtek(R) Audio)
+[2022.01.09-12.50.29:767][487]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.09-12.50.29:767][487]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.09-12.50.29:767][487]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.09-12.50.29:767][487]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.09-12.50.29:767][487]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.09-12.50.29:768][487]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.09-12.50.29:768][487]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.09-12.50.29:768][487]LogInit: FAudioDevice initialized.
+[2022.01.09-12.50.29:768][487]LogAudio: Display: Audio Device (ID: 19) registered with world 'landscape'.
+[2022.01.09-12.50.29:774][487]LogLoad: Game class is 'GameModeBase'
+[2022.01.09-12.50.29:778][487]LogWorld: Bringing World /Game/Maps/UEDPIE_0_landscape.landscape up for play (max tick rate 0) at 2022.01.09-13.50.29
+[2022.01.09-12.50.29:778][487]LogWorld: Bringing up level for play took: 0.003930
+[2022.01.09-12.50.29:778][487]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2022.01.09-12.50.29:780][487]PIE: Server logged in
+[2022.01.09-12.50.29:780][487]PIE: Play in editor total start time 0,099 seconds.
+[2022.01.09-12.50.32:206][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.09-12.50.32:206][639]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_landscape
+[2022.01.09-12.50.32:207][639]LogWorld: UWorld::CleanupWorld for landscape, bSessionEnded=true, bCleanupResources=true
+[2022.01.09-12.50.32:207][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.09-12.50.32:221][639]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.09-12.50.32:236][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.09-12.50.32:255][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.09-12.50.32:256][639]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.09-12.50.32:257][639]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.09-12.50.32:262][639]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.01.09-12.50.32:286][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.01.09-12.50.32:326][640]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.01.09-12.53.15:893][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/landscape" FILE="../../../../../../Github/landscape/Content/Maps/landscape.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.09-12.53.15:918][259]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.01.09-12.53.16:144][259]LogSavePackage: Moving '../../../../../../Github/landscape/Saved/landscape1961BC584319208AD496E089D29A1D70.tmp' to '../../../../../../Github/landscape/Content/Maps/landscape.umap'
+[2022.01.09-12.53.16:160][259]AssetCheck: New page: Asset Save: landscape
+[2022.01.09-12.53.16:160][259]LogContentValidation: Display: Validating World /Game/Maps/landscape.landscape
+[2022.01.09-12.53.16:568][288]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.01.09-12.53.16:572][288]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.09-12.53.16:572][288]PIE: New page: PIE session: landscape (9. jan. 2022, 14:53:16)
+[2022.01.09-12.53.16:572][288]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_landscape
+[2022.01.09-12.53.16:589][288]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016671s)
+[2022.01.09-12.53.16:590][288]LogAIModule: Creating AISystem for world landscape
+[2022.01.09-12.53.16:590][288]LogPlayLevel: PIE: World Init took: (0.001081s)
+[2022.01.09-12.53.16:590][288]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/landscape.landscape to /Game/Maps/UEDPIE_0_landscape.landscape (0.017843s)
+[2022.01.09-12.53.16:611][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.01.09-12.53.16:611][288]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2022.01.09-12.53.16:612][288]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.09-12.53.16:612][288]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.09-12.53.16:612][288]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.09-12.53.16:612][288]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.09-12.53.16:612][288]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.09-12.53.16:612][288]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.09-12.53.16:612][288]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.09-12.53.16:612][288]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.09-12.53.16:612][288]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.09-12.53.16:612][288]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.09-12.53.16:615][288]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.09-12.53.16:615][288]LogAudioMixer: Display: 1: FrontRight
+[2022.01.09-12.53.16:627][288]LogAudioMixer: Display: Using Audio Device Høyttalere (Realtek(R) Audio)
+[2022.01.09-12.53.16:628][288]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.09-12.53.16:628][288]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.09-12.53.16:628][288]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.09-12.53.16:628][288]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.09-12.53.16:628][288]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.09-12.53.16:629][288]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.09-12.53.16:629][288]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.09-12.53.16:629][288]LogInit: FAudioDevice initialized.
+[2022.01.09-12.53.16:629][288]LogAudio: Display: Audio Device (ID: 20) registered with world 'landscape'.
+[2022.01.09-12.53.16:637][288]LogLoad: Game class is 'GameModeBase'
+[2022.01.09-12.53.16:641][288]LogWorld: Bringing World /Game/Maps/UEDPIE_0_landscape.landscape up for play (max tick rate 0) at 2022.01.09-13.53.16
+[2022.01.09-12.53.16:641][288]LogWorld: Bringing up level for play took: 0.003762
+[2022.01.09-12.53.16:641][288]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2022.01.09-12.53.16:643][288]PIE: Server logged in
+[2022.01.09-12.53.16:643][288]PIE: Play in editor total start time 0,072 seconds.
+[2022.01.09-12.53.19:427][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.09-12.53.19:427][466]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_landscape
+[2022.01.09-12.53.19:427][466]LogWorld: UWorld::CleanupWorld for landscape, bSessionEnded=true, bCleanupResources=true
+[2022.01.09-12.53.19:428][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.09-12.53.19:440][466]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.09-12.53.19:454][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.09-12.53.19:474][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.09-12.53.19:475][466]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.09-12.53.19:476][466]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.09-12.53.19:483][466]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.01.09-12.53.19:504][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.01.09-12.53.19:558][467]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.01.09-13.03.19:066][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.01.09-13.03.19:070][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/landscape" FILE="../../../../../../Github/landscape/Saved/Autosaves/Game/Maps/landscape_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.01.09-13.03.19:293][820]LogSavePackage: Moving '../../../../../../Github/landscape/Saved/landscape_Auto509B565414AB1AD100B9EC390C9B6C0AE.tmp' to '../../../../../../Github/landscape/Saved/Autosaves/Game/Maps/landscape_Auto5.umap'
+[2022.01.09-13.03.19:295][820]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/landscape' took 0.251
+[2022.01.09-13.03.19:295][820]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.251
+[2022.01.09-13.12.26:564][830]Cmd: EDIT COPY
+[2022.01.09-13.13.24:900][634]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:900][634]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:902][634]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:902][634]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:902][634]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:902][634]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:902][634]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:902][634]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:904][634]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:904][634]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:905][634]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:905][634]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:905][634]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:905][634]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:905][634]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:906][634]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:906][634]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:906][634]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:907][634]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:907][634]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:907][634]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:907][634]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:907][634]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:907][634]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:908][634]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:908][634]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:909][634]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:909][634]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:909][634]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:909][634]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:909][634]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:909][634]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:910][634]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:910][634]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:910][634]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:910][634]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:911][634]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:911][634]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:911][634]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:911][634]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:911][634]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:911][634]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:912][634]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:912][634]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:912][634]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:912][634]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:912][634]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:912][634]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:913][634]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:913][634]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:914][634]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:914][634]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:914][634]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:914][634]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:914][634]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:914][634]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:915][634]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:915][634]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:916][634]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:916][634]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:916][634]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:916][634]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:916][634]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:916][634]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:917][634]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:917][634]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:917][634]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_32 in PCD3D_SM5, Default, SM5 (DDC key hash: B7C5BDEBF91594ED6045E9DD227588D7F071C335), compiling. 
+[2022.01.09-13.13.24:919][634]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.13.24:919][634]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.01.09-13.14.23:940][798]Cmd: TRANSACTION UNDO
+[2022.01.09-13.14.23:940][798]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2022.01.09-13.14.23:983][798]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2022.01.09-13.14.23:984][798]LogMaterial: Display: Missing cached shadermap for Preview:CubeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 5E72E67D82C6E79E519EFB41E2061D109F28B9B6), compiling. 
+[2022.01.09-13.14.24:006][798]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.09-13.14.24:006][798]MaterialEditorStats: 
+[2022.01.09-13.14.24:006][798]MaterialEditorStats: Shader Count: 0
+[2022.01.09-13.14.24:207][801]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.01.09-13.14.24:207][801]LogShaderCompilers: Display: Total job queries 3760, among them cache hits 224 (5.96%)
+[2022.01.09-13.14.24:207][801]LogShaderCompilers: Display: Tracking 1890 distinct input hashes that result in 1031 distinct outputs (54.55%)
+[2022.01.09-13.14.24:207][801]LogShaderCompilers: Display: RAM used: 8.61 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 1.05%
+[2022.01.09-13.14.24:207][801]LogShaderCompilers: Display: ================================================
+[2022.01.09-13.14.24:271][802]MaterialEditorStats: Base pass shader: 146 instructions
+[2022.01.09-13.14.24:271][802]MaterialEditorStats: Base pass shader with Surface Lightmap: 174 instructions
+[2022.01.09-13.14.24:271][802]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 220 instructions
+[2022.01.09-13.14.24:271][802]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.01.09-13.14.24:271][802]MaterialEditorStats: Texture samplers: 2/16
+[2022.01.09-13.14.24:271][802]MaterialEditorStats: 
+[2022.01.09-13.14.24:271][802]MaterialEditorStats: Shader Count: 19
+[2022.01.09-13.14.25:902][916]Cmd: TRANSACTION UNDO
+[2022.01.09-13.14.25:902][916]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2022.01.09-13.14.25:929][916]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2022.01.09-13.14.25:930][916]LogMaterial: Display: Missing cached shadermap for Preview:CubeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: F7C8606A8004D44F37BDD71F94632543F93CC8B3), compiling. 
+[2022.01.09-13.14.25:935][916]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.09-13.14.25:935][916]MaterialEditorStats: 
+[2022.01.09-13.14.25:935][916]MaterialEditorStats: Shader Count: 0
+[2022.01.09-13.14.25:989][920]MaterialEditorStats: Texture samplers: 2/16
+[2022.01.09-13.14.25:989][920]MaterialEditorStats: 
+[2022.01.09-13.14.25:989][920]MaterialEditorStats: Shader Count: 2
+[2022.01.09-13.14.26:006][921]MaterialEditorStats: Base pass shader: 146 instructions
+[2022.01.09-13.14.26:006][921]MaterialEditorStats: Base pass shader with Surface Lightmap: 174 instructions
+[2022.01.09-13.14.26:006][921]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 220 instructions
+[2022.01.09-13.14.26:006][921]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.01.09-13.14.26:006][921]MaterialEditorStats: Texture samplers: 2/16
+[2022.01.09-13.14.26:006][921]MaterialEditorStats: 
+[2022.01.09-13.14.26:006][921]MaterialEditorStats: Shader Count: 19
+[2022.01.09-13.14.28:842][142]Cmd: TRANSACTION UNDO
+[2022.01.09-13.14.28:842][142]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2022.01.09-13.14.28:869][142]LogMaterial: Display: Missing cached shadermap for Preview:CubeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: CD6FB8E0346F5A38BDAF83B9DED5650AC436B0E3), compiling. 
+[2022.01.09-13.14.28:874][142]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.09-13.14.28:874][142]MaterialEditorStats: 
+[2022.01.09-13.14.28:874][142]MaterialEditorStats: Shader Count: 0
+[2022.01.09-13.14.28:915][145]MaterialEditorStats: Base pass shader: 146 instructions
+[2022.01.09-13.14.28:915][145]MaterialEditorStats: Base pass shader with Surface Lightmap: 174 instructions
+[2022.01.09-13.14.28:915][145]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 220 instructions
+[2022.01.09-13.14.28:915][145]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.01.09-13.14.28:915][145]MaterialEditorStats: Texture samplers: 2/16
+[2022.01.09-13.14.28:915][145]MaterialEditorStats: 
+[2022.01.09-13.14.28:915][145]MaterialEditorStats: Shader Count: 19
+[2022.01.09-13.15.20:351][657]Cmd: TRANSACTION UNDO
+[2022.01.09-13.15.20:351][657]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2022.01.09-13.15.20:388][657]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2022.01.09-13.15.20:389][657]LogMaterial: Display: Missing cached shadermap for Preview:CubeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 7EE2B4B51686F37DD49843F919887C9840B6702B), compiling. 
+[2022.01.09-13.15.20:415][657]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.09-13.15.20:415][657]MaterialEditorStats: 
+[2022.01.09-13.15.20:415][657]MaterialEditorStats: Shader Count: 0
+[2022.01.09-13.15.20:587][660]MaterialEditorStats: Texture samplers: 2/16
+[2022.01.09-13.15.20:587][660]MaterialEditorStats: 
+[2022.01.09-13.15.20:587][660]MaterialEditorStats: Shader Count: 2
+[2022.01.09-13.15.20:688][661]MaterialEditorStats: Base pass shader: 146 instructions
+[2022.01.09-13.15.20:688][661]MaterialEditorStats: Base pass shader with Surface Lightmap: 174 instructions
+[2022.01.09-13.15.20:688][661]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 220 instructions
+[2022.01.09-13.15.20:688][661]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.01.09-13.15.20:688][661]MaterialEditorStats: Texture samplers: 2/16
+[2022.01.09-13.15.20:688][661]MaterialEditorStats: 
+[2022.01.09-13.15.20:688][661]MaterialEditorStats: Shader Count: 19
+[2022.01.09-13.16.44:564][136]Cmd: EDIT COPY
+[2022.01.09-13.17.52:097][541]Cmd: EDIT COPY
+[2022.01.09-13.17.57:085][856]Cmd: TRANSACTION UNDO
+[2022.01.09-13.17.57:085][856]LogEditorTransaction: Undo Move Elements
+[2022.01.09-13.17.57:110][856]LogMaterial: Display: Missing cached shadermap for Preview:CubeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 5CD1B854FACFB0683395002633B4067D4D88E409), compiling. 
+[2022.01.09-13.17.57:130][856]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.09-13.17.57:130][856]MaterialEditorStats: 
+[2022.01.09-13.17.57:130][856]MaterialEditorStats: Shader Count: 0
+[2022.01.09-13.17.57:266][858]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.01.09-13.17.57:266][858]LogShaderCompilers: Display: Total job queries 3839, among them cache hits 303 (7.89%)
+[2022.01.09-13.17.57:266][858]LogShaderCompilers: Display: Tracking 1890 distinct input hashes that result in 1031 distinct outputs (54.55%)
+[2022.01.09-13.17.57:266][858]LogShaderCompilers: Display: RAM used: 8.61 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 1.05%
+[2022.01.09-13.17.57:266][858]LogShaderCompilers: Display: ================================================
+[2022.01.09-13.17.57:335][859]MaterialEditorStats: Base pass shader: 146 instructions
+[2022.01.09-13.17.57:335][859]MaterialEditorStats: Base pass shader with Surface Lightmap: 174 instructions
+[2022.01.09-13.17.57:335][859]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 220 instructions
+[2022.01.09-13.17.57:335][859]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.01.09-13.17.57:335][859]MaterialEditorStats: Texture samplers: 2/16
+[2022.01.09-13.17.57:335][859]MaterialEditorStats: 
+[2022.01.09-13.17.57:335][859]MaterialEditorStats: Shader Count: 19
+[2022.01.09-13.17.58:319][908]Cmd: EDIT COPY
+[2022.01.09-13.17.58:561][920]Cmd: EDIT PASTE
+[2022.01.09-13.18.58:531][836]Cmd: EDIT COPY
+[2022.01.09-13.18.58:853][860]Cmd: EDIT PASTE
+[2022.01.09-13.20.12:909][737]Cmd: EDIT COPY
+[2022.01.09-13.20.13:240][755]Cmd: EDIT PASTE
+[2022.01.09-13.21.07:171][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/landscape" FILE="../../../../../../Github/landscape/Content/Maps/landscape.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.09-13.21.07:198][300]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.01.09-13.21.07:371][300]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2022.01.09-13.21.07:433][300]LogSavePackage: Moving '../../../../../../Github/landscape/Saved/landscape0544C3D743527FEE5487C89AC2FFE38F.tmp' to '../../../../../../Github/landscape/Content/Maps/landscape.umap'
+[2022.01.09-13.21.07:450][300]AssetCheck: New page: Asset Save: landscape
+[2022.01.09-13.21.07:450][300]LogContentValidation: Display: Validating World /Game/Maps/landscape.landscape
+[2022.01.09-13.21.13:347][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/landscape" FILE="../../../../../../Github/landscape/Content/Maps/landscape.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.09-13.21.13:369][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.01.09-13.21.13:602][747]LogSavePackage: Moving '../../../../../../Github/landscape/Saved/landscape1BB02D3E4E5C579E93C50F8B86695B64.tmp' to '../../../../../../Github/landscape/Content/Maps/landscape.umap'
+[2022.01.09-13.21.13:617][747]AssetCheck: New page: Asset Save: landscape
+[2022.01.09-13.21.13:617][747]LogContentValidation: Display: Validating World /Game/Maps/landscape.landscape
+[2022.01.09-13.21.14:585][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
