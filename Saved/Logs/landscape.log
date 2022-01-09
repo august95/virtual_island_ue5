@@ -3372,3 +3372,413 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.01.09-13.21.13:617][747]AssetCheck: New page: Asset Save: landscape
 [2022.01.09-13.21.13:617][747]LogContentValidation: Display: Validating World /Game/Maps/landscape.landscape
 [2022.01.09-13.21.14:585][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.01.09-13.27.31:407][495]Cmd: EDIT COPY
+[2022.01.09-13.27.31:768][521]Cmd: EDIT PASTE
+[2022.01.09-13.27.45:329][582]Cmd: EDIT COPY
+[2022.01.09-13.27.45:561][598]Cmd: EDIT PASTE
+[2022.01.09-13.28.08:446][233]Cmd: EDIT COPY
+[2022.01.09-13.28.08:648][244]Cmd: EDIT PASTE
+[2022.01.09-13.28.13:232][560]Cmd: TRANSACTION UNDO
+[2022.01.09-13.28.13:232][560]LogEditorTransaction: Undo Move Elements
+[2022.01.09-13.28.13:244][560]LogMaterial: Display: Missing cached shadermap for Preview:CubeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: CAD8A34B60DC16D8C66C61AC08E99C3EBB7C11E1), compiling. 
+[2022.01.09-13.28.13:258][560]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.09-13.28.13:258][560]MaterialEditorStats: 
+[2022.01.09-13.28.13:258][560]MaterialEditorStats: Shader Count: 0
+[2022.01.09-13.28.13:400][562]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.01.09-13.28.13:400][562]LogShaderCompilers: Display: Total job queries 3858, among them cache hits 322 (8.35%)
+[2022.01.09-13.28.13:400][562]LogShaderCompilers: Display: Tracking 1890 distinct input hashes that result in 1031 distinct outputs (54.55%)
+[2022.01.09-13.28.13:400][562]LogShaderCompilers: Display: RAM used: 8.61 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 1.05%
+[2022.01.09-13.28.13:400][562]LogShaderCompilers: Display: ================================================
+[2022.01.09-13.28.13:458][563]MaterialEditorStats: Base pass shader: 146 instructions
+[2022.01.09-13.28.13:458][563]MaterialEditorStats: Base pass shader with Surface Lightmap: 174 instructions
+[2022.01.09-13.28.13:458][563]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 220 instructions
+[2022.01.09-13.28.13:458][563]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.01.09-13.28.13:458][563]MaterialEditorStats: Texture samplers: 2/16
+[2022.01.09-13.28.13:458][563]MaterialEditorStats: 
+[2022.01.09-13.28.13:458][563]MaterialEditorStats: Shader Count: 19
+[2022.01.09-13.28.13:737][566]Cmd: TRANSACTION UNDO
+[2022.01.09-13.28.13:737][566]LogEditorTransaction: Undo Move Elements
+[2022.01.09-13.28.13:739][566]LogMaterial: Display: Missing cached shadermap for Preview:CubeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: FF9F89C7F0C80D4F47C60D9EDE5FD207947DEC1D), compiling. 
+[2022.01.09-13.28.13:742][566]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.09-13.28.13:742][566]MaterialEditorStats: 
+[2022.01.09-13.28.13:742][566]MaterialEditorStats: Shader Count: 0
+[2022.01.09-13.28.13:878][569]MaterialEditorStats: Base pass shader: 146 instructions
+[2022.01.09-13.28.13:878][569]MaterialEditorStats: Base pass shader with Surface Lightmap: 174 instructions
+[2022.01.09-13.28.13:878][569]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 220 instructions
+[2022.01.09-13.28.13:878][569]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.01.09-13.28.13:878][569]MaterialEditorStats: Texture samplers: 2/16
+[2022.01.09-13.28.13:878][569]MaterialEditorStats: 
+[2022.01.09-13.28.13:878][569]MaterialEditorStats: Shader Count: 19
+[2022.01.09-13.28.19:279][946]Cmd: TRANSACTION UNDO
+[2022.01.09-13.28.19:279][946]LogEditorTransaction: Undo Move Elements
+[2022.01.09-13.28.19:300][946]LogMaterial: Display: Missing cached shadermap for Preview:CubeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 77219B7602DD63854EBFC7B944247BBC7B665E7B), compiling. 
+[2022.01.09-13.28.19:332][946]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.09-13.28.19:332][946]MaterialEditorStats: 
+[2022.01.09-13.28.19:332][946]MaterialEditorStats: Shader Count: 0
+[2022.01.09-13.28.19:493][949]MaterialEditorStats: Base pass shader: 146 instructions
+[2022.01.09-13.28.19:493][949]MaterialEditorStats: Base pass shader with Surface Lightmap: 174 instructions
+[2022.01.09-13.28.19:493][949]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 220 instructions
+[2022.01.09-13.28.19:493][949]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.01.09-13.28.19:493][949]MaterialEditorStats: Texture samplers: 2/16
+[2022.01.09-13.28.19:493][949]MaterialEditorStats: 
+[2022.01.09-13.28.19:493][949]MaterialEditorStats: Shader Count: 19
+[2022.01.09-13.28.40:843][287]Cmd: EDIT COPY
+[2022.01.09-13.28.46:156][645]Cmd: TRANSACTION UNDO
+[2022.01.09-13.28.46:156][645]LogEditorTransaction: Undo Move Elements
+[2022.01.09-13.28.46:178][645]LogMaterial: Display: Missing cached shadermap for Preview:CubeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 097EB7657B8B46050418DF509338D91268CCECF4), compiling. 
+[2022.01.09-13.28.46:195][645]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.09-13.28.46:195][645]MaterialEditorStats: 
+[2022.01.09-13.28.46:195][645]MaterialEditorStats: Shader Count: 0
+[2022.01.09-13.28.46:392][648]MaterialEditorStats: Base pass shader: 146 instructions
+[2022.01.09-13.28.46:392][648]MaterialEditorStats: Base pass shader with Surface Lightmap: 174 instructions
+[2022.01.09-13.28.46:392][648]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 220 instructions
+[2022.01.09-13.28.46:392][648]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.01.09-13.28.46:392][648]MaterialEditorStats: Texture samplers: 2/16
+[2022.01.09-13.28.46:392][648]MaterialEditorStats: 
+[2022.01.09-13.28.46:392][648]MaterialEditorStats: Shader Count: 19
+[2022.01.09-13.28.46:820][659]Cmd: TRANSACTION UNDO
+[2022.01.09-13.28.46:820][659]LogEditorTransaction: Undo Move Elements
+[2022.01.09-13.28.46:837][659]LogMaterial: Display: Missing cached shadermap for Preview:CubeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: F74022078FE698A199F33066E992182B6D52417A), compiling. 
+[2022.01.09-13.28.46:840][659]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.09-13.28.46:840][659]MaterialEditorStats: 
+[2022.01.09-13.28.46:840][659]MaterialEditorStats: Shader Count: 0
+[2022.01.09-13.28.46:880][662]MaterialEditorStats: Texture samplers: 2/16
+[2022.01.09-13.28.46:880][662]MaterialEditorStats: 
+[2022.01.09-13.28.46:880][662]MaterialEditorStats: Shader Count: 2
+[2022.01.09-13.28.46:895][663]MaterialEditorStats: Base pass shader: 146 instructions
+[2022.01.09-13.28.46:895][663]MaterialEditorStats: Base pass shader with Surface Lightmap: 174 instructions
+[2022.01.09-13.28.46:895][663]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 220 instructions
+[2022.01.09-13.28.46:895][663]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.01.09-13.28.46:895][663]MaterialEditorStats: Texture samplers: 2/16
+[2022.01.09-13.28.46:895][663]MaterialEditorStats: 
+[2022.01.09-13.28.46:895][663]MaterialEditorStats: Shader Count: 19
+[2022.01.09-13.28.47:688][714]Cmd: TRANSACTION UNDO
+[2022.01.09-13.28.47:688][714]LogEditorTransaction: Undo Move Elements
+[2022.01.09-13.28.47:704][714]LogMaterial: Display: Missing cached shadermap for Preview:CubeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: D45CACC8D6B79A25804E00145A91F92A5DB4B68E), compiling. 
+[2022.01.09-13.28.47:707][714]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.09-13.28.47:707][714]MaterialEditorStats: 
+[2022.01.09-13.28.47:707][714]MaterialEditorStats: Shader Count: 0
+[2022.01.09-13.28.47:793][717]MaterialEditorStats: Base pass shader: 146 instructions
+[2022.01.09-13.28.47:794][717]MaterialEditorStats: Base pass shader with Surface Lightmap: 174 instructions
+[2022.01.09-13.28.47:794][717]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 220 instructions
+[2022.01.09-13.28.47:794][717]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.01.09-13.28.47:794][717]MaterialEditorStats: Texture samplers: 2/16
+[2022.01.09-13.28.47:794][717]MaterialEditorStats: 
+[2022.01.09-13.28.47:794][717]MaterialEditorStats: Shader Count: 19
+[2022.01.09-13.28.49:538][835]Cmd: EDIT COPY
+[2022.01.09-13.28.49:853][858]Cmd: EDIT PASTE
+[2022.01.09-13.29.06:037][882]Cmd: EDIT COPY
+[2022.01.09-13.29.06:439][907]Cmd: EDIT PASTE
+[2022.01.09-13.29.26:963][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/landscape" FILE="../../../../../../Github/landscape/Content/Maps/landscape.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.09-13.29.26:986][121]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.01.09-13.29.27:216][121]LogSavePackage: Moving '../../../../../../Github/landscape/Saved/landscapeCCF6787D40C0CC2C58B721A64CEFD459.tmp' to '../../../../../../Github/landscape/Content/Maps/landscape.umap'
+[2022.01.09-13.29.27:233][121]AssetCheck: New page: Asset Save: landscape
+[2022.01.09-13.29.27:233][121]LogContentValidation: Display: Validating World /Game/Maps/landscape.landscape
+[2022.01.09-13.29.59:080][365]Cmd: EDIT COPY
+[2022.01.09-13.30.01:117][503]Cmd: EDIT PASTE
+[2022.01.09-13.30.04:250][697]Cmd: TRANSACTION UNDO
+[2022.01.09-13.30.04:250][697]LogEditorTransaction: Undo Move Elements
+[2022.01.09-13.30.04:276][697]LogMaterial: Display: Missing cached shadermap for Preview:CubeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: DF3FD5819AD4F0072EC5E40FF8B44EAB4EA95579), compiling. 
+[2022.01.09-13.30.04:295][697]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.09-13.30.04:295][697]MaterialEditorStats: 
+[2022.01.09-13.30.04:295][697]MaterialEditorStats: Shader Count: 0
+[2022.01.09-13.30.04:493][700]MaterialEditorStats: Base pass shader: 146 instructions
+[2022.01.09-13.30.04:493][700]MaterialEditorStats: Base pass shader with Surface Lightmap: 174 instructions
+[2022.01.09-13.30.04:493][700]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 220 instructions
+[2022.01.09-13.30.04:493][700]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.01.09-13.30.04:493][700]MaterialEditorStats: Texture samplers: 2/16
+[2022.01.09-13.30.04:493][700]MaterialEditorStats: 
+[2022.01.09-13.30.04:493][700]MaterialEditorStats: Shader Count: 19
+[2022.01.09-13.30.55:938][756]Cmd: DELETE
+[2022.01.09-13.30.55:938][756]Cmd: ACTOR DELETE
+[2022.01.09-13.30.55:943][756]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.01.09-13.30.55:978][756]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.01.09-13.30.55:981][756]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2022.01.09-13.31.34:107][389]Cmd: EDIT COPY
+[2022.01.09-13.31.34:410][408]Cmd: EDIT PASTE
+[2022.01.09-13.33.01:823][891]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.01.09-13.33.01:829][891]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.09-13.33.01:830][891]PIE: New page: PIE session: landscape (9. jan. 2022, 15:33:01)
+[2022.01.09-13.33.01:830][891]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_landscape
+[2022.01.09-13.33.01:848][891]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018220s)
+[2022.01.09-13.33.01:849][891]LogAIModule: Creating AISystem for world landscape
+[2022.01.09-13.33.01:849][891]LogPlayLevel: PIE: World Init took: (0.001194s)
+[2022.01.09-13.33.01:849][891]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/landscape.landscape to /Game/Maps/UEDPIE_0_landscape.landscape (0.019521s)
+[2022.01.09-13.33.01:874][891]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.01.09-13.33.01:877][891]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2022.01.09-13.33.01:877][891]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.09-13.33.01:877][891]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.09-13.33.01:877][891]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.09-13.33.01:877][891]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.09-13.33.01:877][891]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.09-13.33.01:877][891]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.09-13.33.01:877][891]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.09-13.33.01:877][891]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.09-13.33.01:877][891]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.09-13.33.01:877][891]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.09-13.33.01:881][891]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.09-13.33.01:881][891]LogAudioMixer: Display: 1: FrontRight
+[2022.01.09-13.33.01:893][891]LogAudioMixer: Display: Using Audio Device Høyttalere (Realtek(R) Audio)
+[2022.01.09-13.33.01:894][891]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.09-13.33.01:894][891]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.09-13.33.01:894][891]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.09-13.33.01:894][891]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.09-13.33.01:894][891]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.09-13.33.01:895][891]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.09-13.33.01:895][891]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.09-13.33.01:895][891]LogInit: FAudioDevice initialized.
+[2022.01.09-13.33.01:895][891]LogAudio: Display: Audio Device (ID: 21) registered with world 'landscape'.
+[2022.01.09-13.33.01:905][891]LogLoad: Game class is 'GameModeBase'
+[2022.01.09-13.33.01:910][891]LogWorld: Bringing World /Game/Maps/UEDPIE_0_landscape.landscape up for play (max tick rate 0) at 2022.01.09-14.33.01
+[2022.01.09-13.33.01:910][891]LogWorld: Bringing up level for play took: 0.004642
+[2022.01.09-13.33.01:910][891]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2022.01.09-13.33.01:912][891]PIE: Server logged in
+[2022.01.09-13.33.01:912][891]PIE: Play in editor total start time 0,086 seconds.
+[2022.01.09-13.33.17:680][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.09-13.33.17:680][866]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_landscape
+[2022.01.09-13.33.17:680][866]LogWorld: UWorld::CleanupWorld for landscape, bSessionEnded=true, bCleanupResources=true
+[2022.01.09-13.33.17:681][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.09-13.33.17:693][866]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.09-13.33.17:708][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.09-13.33.17:728][866]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.09-13.33.17:728][866]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.09-13.33.17:729][866]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.09-13.33.17:731][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.09-13.33.17:736][866]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2022.01.09-13.33.17:757][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.01.09-13.33.17:802][867]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.01.09-13.35.31:717][422]Cmd: TRANSACTION UNDO
+[2022.01.09-13.35.31:717][422]LogEditorTransaction: Undo Clicking on Elements
+[2022.01.09-13.35.31:740][422]LogMaterial: Display: Missing cached shadermap for Preview:CubeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 4B17C3032F8300080160CB5578E9F818E0BFC9B6), compiling. 
+[2022.01.09-13.35.31:759][422]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.09-13.35.31:760][422]MaterialEditorStats: 
+[2022.01.09-13.35.31:760][422]MaterialEditorStats: Shader Count: 0
+[2022.01.09-13.35.31:898][423]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.01.09-13.35.31:898][423]LogShaderCompilers: Display: Total job queries 3991, among them cache hits 455 (11.40%)
+[2022.01.09-13.35.31:898][423]LogShaderCompilers: Display: Tracking 1890 distinct input hashes that result in 1031 distinct outputs (54.55%)
+[2022.01.09-13.35.31:898][423]LogShaderCompilers: Display: RAM used: 8.61 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 1.05%
+[2022.01.09-13.35.31:898][423]LogShaderCompilers: Display: ================================================
+[2022.01.09-13.35.32:000][424]MaterialEditorStats: Base pass shader: 146 instructions
+[2022.01.09-13.35.32:001][424]MaterialEditorStats: Base pass shader with Surface Lightmap: 174 instructions
+[2022.01.09-13.35.32:001][424]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 220 instructions
+[2022.01.09-13.35.32:001][424]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.01.09-13.35.32:001][424]MaterialEditorStats: Texture samplers: 2/16
+[2022.01.09-13.35.32:001][424]MaterialEditorStats: 
+[2022.01.09-13.35.32:001][424]MaterialEditorStats: Shader Count: 19
+[2022.01.09-13.35.36:711][698]Cmd: TRANSACTION UNDO
+[2022.01.09-13.35.36:711][698]LogEditorTransaction: Undo Rotate Elements
+[2022.01.09-13.35.36:732][698]LogMaterial: Display: Missing cached shadermap for Preview:CubeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: BE3DA702B7B798273FA0D4A5B81D793A5D2486DF), compiling. 
+[2022.01.09-13.35.36:757][698]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.09-13.35.36:757][698]MaterialEditorStats: 
+[2022.01.09-13.35.36:757][698]MaterialEditorStats: Shader Count: 0
+[2022.01.09-13.35.36:925][701]MaterialEditorStats: Base pass shader: 146 instructions
+[2022.01.09-13.35.36:925][701]MaterialEditorStats: Base pass shader with Surface Lightmap: 174 instructions
+[2022.01.09-13.35.36:925][701]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 220 instructions
+[2022.01.09-13.35.36:925][701]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.01.09-13.35.36:925][701]MaterialEditorStats: Texture samplers: 2/16
+[2022.01.09-13.35.36:925][701]MaterialEditorStats: 
+[2022.01.09-13.35.36:925][701]MaterialEditorStats: Shader Count: 19
+[2022.01.09-13.35.37:420][718]Cmd: TRANSACTION UNDO
+[2022.01.09-13.35.37:420][718]LogEditorTransaction: Undo Clicking on Elements
+[2022.01.09-13.35.37:433][718]LogMaterial: Display: Missing cached shadermap for Preview:CubeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: E0EF0E10B11B9C6E957B3030C13A4F93FC8EC724), compiling. 
+[2022.01.09-13.35.37:437][718]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.09-13.35.37:437][718]MaterialEditorStats: 
+[2022.01.09-13.35.37:437][718]MaterialEditorStats: Shader Count: 0
+[2022.01.09-13.35.37:488][721]MaterialEditorStats: Texture samplers: 2/16
+[2022.01.09-13.35.37:488][721]MaterialEditorStats: 
+[2022.01.09-13.35.37:488][721]MaterialEditorStats: Shader Count: 2
+[2022.01.09-13.35.37:512][722]MaterialEditorStats: Base pass shader: 146 instructions
+[2022.01.09-13.35.37:513][722]MaterialEditorStats: Base pass shader with Surface Lightmap: 174 instructions
+[2022.01.09-13.35.37:513][722]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 220 instructions
+[2022.01.09-13.35.37:513][722]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.01.09-13.35.37:513][722]MaterialEditorStats: Texture samplers: 2/16
+[2022.01.09-13.35.37:513][722]MaterialEditorStats: 
+[2022.01.09-13.35.37:513][722]MaterialEditorStats: Shader Count: 19
+[2022.01.09-13.35.39:877][900]Cmd: TRANSACTION UNDO
+[2022.01.09-13.35.39:877][900]LogEditorTransaction: Undo Clicking on Elements
+[2022.01.09-13.35.39:891][900]LogMaterial: Display: Missing cached shadermap for Preview:CubeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 11F3761DE65AF081F733E813EDE73421B83C27DC), compiling. 
+[2022.01.09-13.35.39:894][900]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.09-13.35.39:894][900]MaterialEditorStats: 
+[2022.01.09-13.35.39:894][900]MaterialEditorStats: Shader Count: 0
+[2022.01.09-13.35.39:944][903]MaterialEditorStats: Base pass shader: 146 instructions
+[2022.01.09-13.35.39:944][903]MaterialEditorStats: Base pass shader with Surface Lightmap: 174 instructions
+[2022.01.09-13.35.39:944][903]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 220 instructions
+[2022.01.09-13.35.39:944][903]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.01.09-13.35.39:944][903]MaterialEditorStats: Texture samplers: 2/16
+[2022.01.09-13.35.39:944][903]MaterialEditorStats: 
+[2022.01.09-13.35.39:944][903]MaterialEditorStats: Shader Count: 19
+[2022.01.09-13.35.41:461][ 14]Cmd: TRANSACTION UNDO
+[2022.01.09-13.35.41:461][ 14]LogEditorTransaction: Undo Clicking on Elements
+[2022.01.09-13.35.41:475][ 14]LogMaterial: Display: Missing cached shadermap for Preview:CubeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 76EF1158A5DEA2528055DBCA25F1E746DE649F36), compiling. 
+[2022.01.09-13.35.41:477][ 14]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.09-13.35.41:477][ 14]MaterialEditorStats: 
+[2022.01.09-13.35.41:477][ 14]MaterialEditorStats: Shader Count: 0
+[2022.01.09-13.35.41:528][ 17]MaterialEditorStats: Base pass shader: 146 instructions
+[2022.01.09-13.35.41:528][ 17]MaterialEditorStats: Base pass shader with Surface Lightmap: 174 instructions
+[2022.01.09-13.35.41:528][ 17]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 220 instructions
+[2022.01.09-13.35.41:528][ 17]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.01.09-13.35.41:528][ 17]MaterialEditorStats: Texture samplers: 2/16
+[2022.01.09-13.35.41:528][ 17]MaterialEditorStats: 
+[2022.01.09-13.35.41:528][ 17]MaterialEditorStats: Shader Count: 19
+[2022.01.09-13.35.42:137][ 61]Cmd: TRANSACTION UNDO
+[2022.01.09-13.35.42:137][ 61]LogEditorTransaction: Undo Clicking on Elements
+[2022.01.09-13.35.42:147][ 61]LogMaterial: Display: Missing cached shadermap for Preview:CubeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 39683AE74CDC8652774F50A90FC239EFBBA73D73), compiling. 
+[2022.01.09-13.35.42:150][ 61]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.09-13.35.42:150][ 61]MaterialEditorStats: 
+[2022.01.09-13.35.42:150][ 61]MaterialEditorStats: Shader Count: 0
+[2022.01.09-13.35.42:194][ 64]MaterialEditorStats: Texture samplers: 2/16
+[2022.01.09-13.35.42:194][ 64]MaterialEditorStats: 
+[2022.01.09-13.35.42:194][ 64]MaterialEditorStats: Shader Count: 2
+[2022.01.09-13.35.42:223][ 65]MaterialEditorStats: Base pass shader: 146 instructions
+[2022.01.09-13.35.42:223][ 65]MaterialEditorStats: Base pass shader with Surface Lightmap: 174 instructions
+[2022.01.09-13.35.42:223][ 65]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 220 instructions
+[2022.01.09-13.35.42:223][ 65]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.01.09-13.35.42:223][ 65]MaterialEditorStats: Texture samplers: 2/16
+[2022.01.09-13.35.42:223][ 65]MaterialEditorStats: 
+[2022.01.09-13.35.42:223][ 65]MaterialEditorStats: Shader Count: 19
+[2022.01.09-13.35.46:349][325]Cmd: TRANSACTION UNDO
+[2022.01.09-13.35.46:349][325]LogEditorTransaction: Undo Clicking on Elements
+[2022.01.09-13.35.46:370][325]LogMaterial: Display: Missing cached shadermap for Preview:CubeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 7587BA777BA79F986E8F6DAB2A5B0F5D58E66241), compiling. 
+[2022.01.09-13.35.46:403][325]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.09-13.35.46:403][325]MaterialEditorStats: 
+[2022.01.09-13.35.46:403][325]MaterialEditorStats: Shader Count: 0
+[2022.01.09-13.35.46:626][327]MaterialEditorStats: Base pass shader: 146 instructions
+[2022.01.09-13.35.46:626][327]MaterialEditorStats: Base pass shader with Surface Lightmap: 174 instructions
+[2022.01.09-13.35.46:626][327]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 220 instructions
+[2022.01.09-13.35.46:626][327]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.01.09-13.35.46:626][327]MaterialEditorStats: Texture samplers: 2/16
+[2022.01.09-13.35.46:626][327]MaterialEditorStats: 
+[2022.01.09-13.35.46:626][327]MaterialEditorStats: Shader Count: 19
+[2022.01.09-13.35.47:327][363]Cmd: TRANSACTION UNDO
+[2022.01.09-13.35.47:327][363]LogEditorTransaction: Undo Rotate Elements
+[2022.01.09-13.35.47:345][363]LogMaterial: Display: Missing cached shadermap for Preview:CubeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: E20E493DF384F364F75B269511DA08F392F5D23A), compiling. 
+[2022.01.09-13.35.47:347][363]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.09-13.35.47:347][363]MaterialEditorStats: 
+[2022.01.09-13.35.47:347][363]MaterialEditorStats: Shader Count: 0
+[2022.01.09-13.35.47:385][366]MaterialEditorStats: Base pass shader: 146 instructions
+[2022.01.09-13.35.47:385][366]MaterialEditorStats: Base pass shader with Surface Lightmap: 174 instructions
+[2022.01.09-13.35.47:385][366]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 220 instructions
+[2022.01.09-13.35.47:385][366]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.01.09-13.35.47:385][366]MaterialEditorStats: Texture samplers: 2/16
+[2022.01.09-13.35.47:385][366]MaterialEditorStats: 
+[2022.01.09-13.35.47:385][366]MaterialEditorStats: Shader Count: 19
+[2022.01.09-13.35.47:899][399]Cmd: TRANSACTION UNDO
+[2022.01.09-13.35.47:899][399]LogEditorTransaction: Undo Move Elements
+[2022.01.09-13.35.47:905][399]LogMaterial: Display: Missing cached shadermap for Preview:CubeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: E7796DA7CE29B8DA4372EC71A49E25D4356FE40F), compiling. 
+[2022.01.09-13.35.47:907][399]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.09-13.35.47:907][399]MaterialEditorStats: 
+[2022.01.09-13.35.47:907][399]MaterialEditorStats: Shader Count: 0
+[2022.01.09-13.35.47:940][402]MaterialEditorStats: Texture samplers: 2/16
+[2022.01.09-13.35.47:940][402]MaterialEditorStats: 
+[2022.01.09-13.35.47:940][402]MaterialEditorStats: Shader Count: 2
+[2022.01.09-13.35.47:955][403]MaterialEditorStats: Base pass shader: 146 instructions
+[2022.01.09-13.35.47:955][403]MaterialEditorStats: Base pass shader with Surface Lightmap: 174 instructions
+[2022.01.09-13.35.47:955][403]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 220 instructions
+[2022.01.09-13.35.47:955][403]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.01.09-13.35.47:956][403]MaterialEditorStats: Texture samplers: 2/16
+[2022.01.09-13.35.47:956][403]MaterialEditorStats: 
+[2022.01.09-13.35.47:956][403]MaterialEditorStats: Shader Count: 19
+[2022.01.09-13.35.54:291][842]Cmd: EDIT COPY
+[2022.01.09-13.35.54:516][855]Cmd: EDIT PASTE
+[2022.01.09-13.37.27:095][804]Cmd: TRANSACTION UNDO
+[2022.01.09-13.37.27:095][804]LogEditorTransaction: Undo Clicking on Elements
+[2022.01.09-13.37.27:115][804]LogMaterial: Display: Missing cached shadermap for Preview:CubeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: FC8E7C5AF3596EAF9FC774AD2AE15C8DE412F0D4), compiling. 
+[2022.01.09-13.37.27:151][804]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.09-13.37.27:151][804]MaterialEditorStats: 
+[2022.01.09-13.37.27:151][804]MaterialEditorStats: Shader Count: 0
+[2022.01.09-13.37.27:393][806]MaterialEditorStats: Base pass shader: 146 instructions
+[2022.01.09-13.37.27:393][806]MaterialEditorStats: Base pass shader with Surface Lightmap: 174 instructions
+[2022.01.09-13.37.27:393][806]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 220 instructions
+[2022.01.09-13.37.27:393][806]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.01.09-13.37.27:393][806]MaterialEditorStats: Texture samplers: 2/16
+[2022.01.09-13.37.27:393][806]MaterialEditorStats: 
+[2022.01.09-13.37.27:393][806]MaterialEditorStats: Shader Count: 19
+[2022.01.09-13.37.27:655][809]Cmd: TRANSACTION UNDO
+[2022.01.09-13.37.27:655][809]LogEditorTransaction: Undo Clicking on Elements
+[2022.01.09-13.37.27:668][809]LogMaterial: Display: Missing cached shadermap for Preview:CubeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 7FDE94DEF3BC282498CEBE2C3029CD91744A756A), compiling. 
+[2022.01.09-13.37.27:671][809]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.09-13.37.27:672][809]MaterialEditorStats: 
+[2022.01.09-13.37.27:672][809]MaterialEditorStats: Shader Count: 0
+[2022.01.09-13.37.27:876][811]MaterialEditorStats: Base pass shader: 146 instructions
+[2022.01.09-13.37.27:876][811]MaterialEditorStats: Base pass shader with Surface Lightmap: 174 instructions
+[2022.01.09-13.37.27:876][811]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 220 instructions
+[2022.01.09-13.37.27:876][811]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.01.09-13.37.27:876][811]MaterialEditorStats: Texture samplers: 2/16
+[2022.01.09-13.37.27:876][811]MaterialEditorStats: 
+[2022.01.09-13.37.27:876][811]MaterialEditorStats: Shader Count: 19
+[2022.01.09-13.37.28:021][822]Cmd: TRANSACTION UNDO
+[2022.01.09-13.37.28:021][822]LogEditorTransaction: Undo Move Elements
+[2022.01.09-13.37.28:037][822]LogMaterial: Display: Missing cached shadermap for Preview:CubeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 89A800E29345FF0B3AB0155C826C0832761DBF80), compiling. 
+[2022.01.09-13.37.28:040][822]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.09-13.37.28:040][822]MaterialEditorStats: 
+[2022.01.09-13.37.28:040][822]MaterialEditorStats: Shader Count: 0
+[2022.01.09-13.37.28:091][825]MaterialEditorStats: Texture samplers: 2/16
+[2022.01.09-13.37.28:091][825]MaterialEditorStats: 
+[2022.01.09-13.37.28:091][825]MaterialEditorStats: Shader Count: 2
+[2022.01.09-13.37.28:117][826]MaterialEditorStats: Base pass shader: 146 instructions
+[2022.01.09-13.37.28:118][826]MaterialEditorStats: Base pass shader with Surface Lightmap: 174 instructions
+[2022.01.09-13.37.28:118][826]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 220 instructions
+[2022.01.09-13.37.28:118][826]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.01.09-13.37.28:118][826]MaterialEditorStats: Texture samplers: 2/16
+[2022.01.09-13.37.28:118][826]MaterialEditorStats: 
+[2022.01.09-13.37.28:118][826]MaterialEditorStats: Shader Count: 19
+[2022.01.09-13.37.28:465][849]Cmd: TRANSACTION UNDO
+[2022.01.09-13.37.28:465][849]LogEditorTransaction: Undo Clicking on Elements
+[2022.01.09-13.37.28:477][849]LogMaterial: Display: Missing cached shadermap for Preview:CubeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 1E97E0CF0A9D79740A70D6C9FD5BA1C3F3D58F1A), compiling. 
+[2022.01.09-13.37.28:480][849]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.09-13.37.28:480][849]MaterialEditorStats: 
+[2022.01.09-13.37.28:480][849]MaterialEditorStats: Shader Count: 0
+[2022.01.09-13.37.28:539][852]MaterialEditorStats: Texture samplers: 2/16
+[2022.01.09-13.37.28:539][852]MaterialEditorStats: 
+[2022.01.09-13.37.28:539][852]MaterialEditorStats: Shader Count: 2
+[2022.01.09-13.37.28:552][853]MaterialEditorStats: Base pass shader: 146 instructions
+[2022.01.09-13.37.28:552][853]MaterialEditorStats: Base pass shader with Surface Lightmap: 174 instructions
+[2022.01.09-13.37.28:552][853]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 220 instructions
+[2022.01.09-13.37.28:552][853]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.01.09-13.37.28:552][853]MaterialEditorStats: Texture samplers: 2/16
+[2022.01.09-13.37.28:552][853]MaterialEditorStats: 
+[2022.01.09-13.37.28:552][853]MaterialEditorStats: Shader Count: 19
+[2022.01.09-13.37.29:232][899]Cmd: TRANSACTION UNDO
+[2022.01.09-13.37.29:232][899]LogEditorTransaction: Undo Move Elements
+[2022.01.09-13.37.29:249][899]LogMaterial: Display: Missing cached shadermap for Preview:CubeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: BBB5A5D9B499A4440233813EDD076DBD2E6A6CDA), compiling. 
+[2022.01.09-13.37.29:252][899]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.09-13.37.29:252][899]MaterialEditorStats: 
+[2022.01.09-13.37.29:252][899]MaterialEditorStats: Shader Count: 0
+[2022.01.09-13.37.29:298][902]MaterialEditorStats: Base pass shader: 146 instructions
+[2022.01.09-13.37.29:298][902]MaterialEditorStats: Base pass shader with Surface Lightmap: 174 instructions
+[2022.01.09-13.37.29:298][902]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 220 instructions
+[2022.01.09-13.37.29:298][902]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.01.09-13.37.29:298][902]MaterialEditorStats: Texture samplers: 2/16
+[2022.01.09-13.37.29:298][902]MaterialEditorStats: 
+[2022.01.09-13.37.29:298][902]MaterialEditorStats: Shader Count: 19
+[2022.01.09-13.37.30:568][989]Cmd: TRANSACTION UNDO
+[2022.01.09-13.37.30:568][989]LogEditorTransaction: Undo Move Elements
+[2022.01.09-13.37.30:585][989]LogMaterial: Display: Missing cached shadermap for Preview:CubeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 64B3279D6B0FAE439FD5A762AB90FA556CEDC3D2), compiling. 
+[2022.01.09-13.37.30:587][989]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.09-13.37.30:587][989]MaterialEditorStats: 
+[2022.01.09-13.37.30:587][989]MaterialEditorStats: Shader Count: 0
+[2022.01.09-13.37.30:629][992]MaterialEditorStats: Texture samplers: 2/16
+[2022.01.09-13.37.30:629][992]MaterialEditorStats: 
+[2022.01.09-13.37.30:629][992]MaterialEditorStats: Shader Count: 2
+[2022.01.09-13.37.30:645][993]MaterialEditorStats: Base pass shader: 146 instructions
+[2022.01.09-13.37.30:645][993]MaterialEditorStats: Base pass shader with Surface Lightmap: 174 instructions
+[2022.01.09-13.37.30:645][993]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 220 instructions
+[2022.01.09-13.37.30:645][993]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2022.01.09-13.37.30:645][993]MaterialEditorStats: Texture samplers: 2/16
+[2022.01.09-13.37.30:645][993]MaterialEditorStats: 
+[2022.01.09-13.37.30:645][993]MaterialEditorStats: Shader Count: 19
+[2022.01.09-13.38.09:194][372]Cmd: EDIT COPY
+[2022.01.09-13.38.14:681][751]Cmd: EDIT COPY
+[2022.01.09-13.38.15:409][800]Cmd: EDIT PASTE
+[2022.01.09-13.39.44:846][816]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.01.09-13.39.44:850][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/landscape" FILE="../../../../../../Github/landscape/Saved/Autosaves/Game/Maps/landscape_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.01.09-13.39.45:018][816]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2022.01.09-13.39.45:082][816]LogSavePackage: Moving '../../../../../../Github/landscape/Saved/landscape_Auto6EEC450D54AEABF2888257EACF1D0ECD4.tmp' to '../../../../../../Github/landscape/Saved/Autosaves/Game/Maps/landscape_Auto6.umap'
+[2022.01.09-13.39.45:083][816]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/landscape' took 0.262
+[2022.01.09-13.39.45:083][816]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.262
+[2022.01.09-13.45.28:085][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/landscape" FILE="../../../../../../Github/landscape/Content/Maps/landscape.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.09-13.45.28:107][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.01.09-13.45.28:336][152]LogSavePackage: Moving '../../../../../../Github/landscape/Saved/landscape310957DD493FA9C090DC62BA918A0A3F.tmp' to '../../../../../../Github/landscape/Content/Maps/landscape.umap'
+[2022.01.09-13.45.28:352][152]AssetCheck: New page: Asset Save: landscape
+[2022.01.09-13.45.28:352][152]LogContentValidation: Display: Validating World /Game/Maps/landscape.landscape
+[2022.01.09-13.45.31:255][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
