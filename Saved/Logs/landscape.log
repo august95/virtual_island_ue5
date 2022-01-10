@@ -3782,3 +3782,10 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.01.09-13.45.28:352][152]AssetCheck: New page: Asset Save: landscape
 [2022.01.09-13.45.28:352][152]LogContentValidation: Display: Validating World /Game/Maps/landscape.landscape
 [2022.01.09-13.45.31:255][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.01.09-13.52.02:994][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/landscape" FILE="../../../../../../Github/landscape/Content/Maps/landscape.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.09-13.52.03:019][601]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.01.09-13.52.03:193][601]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2022.01.09-13.52.03:255][601]LogSavePackage: Moving '../../../../../../Github/landscape/Saved/landscape4A4153AC49771036C25140A3122E8192.tmp' to '../../../../../../Github/landscape/Content/Maps/landscape.umap'
+[2022.01.09-13.52.03:271][601]AssetCheck: New page: Asset Save: landscape
+[2022.01.09-13.52.03:271][601]LogContentValidation: Display: Validating World /Game/Maps/landscape.landscape
+[2022.01.09-13.52.07:801][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
